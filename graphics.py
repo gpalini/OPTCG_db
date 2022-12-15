@@ -193,18 +193,18 @@ def handle_view_details(event):
         details_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
         details_window.focus()
         try:
-            img_url = get_current_card_from_listbox()["Art"]
+            img_url = curr_card["Art"]
             image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
             img = ImageTk.PhotoImage(image)
             panel = tk.Label(details_window, image=img)
             panel.grid(row=0, column=0)
             images_list = [img]
-            img_url = get_current_card_from_listbox()["Alternate Art"]
+            img_url = curr_card["Alternate Art"]
             image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
             img = ImageTk.PhotoImage(image)
             images_list.append(img)
             try:
-                img_url = get_current_card_from_listbox()["Alternate Art 2"]
+                img_url = curr_card["Alternate Art 2"]
                 image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
                 img = ImageTk.PhotoImage(image)
                 images_list.append(img)
@@ -216,7 +216,52 @@ def handle_view_details(event):
                                           command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
                 switch_button.grid(row=1, column=0)
         except KeyError:
-            img_url = get_current_card_from_listbox()["Art"]
+            img_url = curr_card["Art"]
+            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+            img = ImageTk.PhotoImage(image)
+            panel = tk.Label(details_window, image=img)
+            panel.grid(row=0, column=0)
+        root.mainloop()
+
+
+def handle_view_details_2(card):
+    if True:
+        details_window = tk.Toplevel()
+        details_window.title("Card details - " + card["Card ID"] + " - " + card["Name"])
+        details_window.resizable(False, False)
+        dw_height = 790
+        dw_width = 610
+        screen_h = root.winfo_screenheight()
+        screen_w = root.winfo_screenwidth()
+        x_c = int((screen_w / 2) - (dw_width / 2))
+        y_c = int((screen_h / 2) - (dw_height / 2))
+        details_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
+        details_window.focus()
+        try:
+            img_url = card["Art"]
+            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+            img = ImageTk.PhotoImage(image)
+            panel = tk.Label(details_window, image=img)
+            panel.grid(row=0, column=0)
+            images_list = [img]
+            img_url = card["Alternate Art"]
+            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+            img = ImageTk.PhotoImage(image)
+            images_list.append(img)
+            try:
+                img_url = card["Alternate Art 2"]
+                image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+                img = ImageTk.PhotoImage(image)
+                images_list.append(img)
+                switch_button = tk.Button(details_window, text="Switch art",
+                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
+                switch_button.grid(row=1, column=0)
+            except KeyError:
+                switch_button = tk.Button(details_window, text="Switch art",
+                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
+                switch_button.grid(row=1, column=0)
+        except KeyError:
+            img_url = card["Art"]
             image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
             img = ImageTk.PhotoImage(image)
             panel = tk.Label(details_window, image=img)
@@ -301,9 +346,34 @@ def handle_view_deck():
     if deck_sel.get() != "":
         print("deck visualization " + deck_sel.get())
         asdddd = ""
-        for id, num in decks_data[deck_sel.get()].items():
-            asdddd = asdddd + "\n" + id + " " + str(num)
-        messagebox.showinfo("DECKLIST", asdddd)
+        for card_id, num in decks_data[deck_sel.get()].items():
+            asdddd = asdddd + "\n" + card_id + " " + str(num)
+        # messagebox.showinfo("DECKLIST", asdddd)
+
+        deck_window = tk.Toplevel()
+        deck_window.title("Deck data - " + deck_sel.get())
+        deck_window.resizable(True, True)
+        dw_height = 1080
+        dw_width = 1080
+        screen_h = root.winfo_screenheight()
+        screen_w = root.winfo_screenwidth()
+        x_c = int((screen_w / 2) - (dw_width / 2))
+        y_c = int((screen_h / 2) - (dw_height / 2))
+        deck_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
+        deck_window.focus()
+        inc = 0
+        images = []
+        for card_id, num in decks_data[deck_sel.get()].items():
+            img_url = get_card_from_card_id(card_id)["Art"]
+            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((250, 300))
+            img = ImageTk.PhotoImage(image)
+            images.append(img)
+            tk.Label(deck_window, image=images[inc]).grid(row=0, column=inc)
+            butt = tk.Button(deck_window, text=card_id + " - " + str(num) + "x", font=("Sans Serif", "14"))
+            butt.grid(row=1, column=inc, padx=15, pady=15)
+            butt.config(command=lambda: handle_view_details_2(get_card_from_card_id(card_id)))
+            inc += 1
+        root.mainloop()
     else:
         messagebox.showerror("ERROR", "Please select a deck")
 
@@ -345,8 +415,8 @@ w_width = 1900
 screen_height = root.winfo_screenheight()
 screen_width = root.winfo_screenwidth()
 
-x_coord = int((screen_width/2) - (w_width/2))
-y_coord = int((screen_height/2) - (w_height/2))
+x_coord = int((screen_width / 2) - (w_width / 2))
+y_coord = int((screen_height / 2) - (w_height / 2))
 root.geometry("{}x{}+{}+{}".format(w_width, w_height, x_coord, y_coord))
 
 filters_frame = tk.Frame(root, width=200, height=200)
@@ -384,8 +454,8 @@ deck_sel_om.grid(row=3, column=0, pady=5)
 deck_sel_om.config(width=len(max(decks_list, key=len)) * 1)
 
 tk.Button(right_frame, text="View deck", font=("Sans Serif", "14"), command=handle_view_deck).grid(row=4,
-                                                                                                                 column=0,
-                                                                                                                 pady=10)
+                                                                                                   column=0,
+                                                                                                   pady=10)
 
 tk.Label(right_frame, font=("Sans Serif", "14"), text="Deck name").grid(row=5, column=0, pady=15)
 new_deck_entry = tk.Entry(right_frame, fg="black", bg="white", width=30, font=("Sans Serif", "14"), bd=4)
