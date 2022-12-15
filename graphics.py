@@ -300,9 +300,9 @@ def handle_add_card_to_deck():
 def handle_view_deck():
     if deck_sel.get() != "":
         print("deck visualization " + deck_sel.get())
-        asdddd = " "
-        for card in decks_data[deck_sel.get()].keys():
-            asdddd = asdddd + " " + card
+        asdddd = ""
+        for id, num in decks_data[deck_sel.get()].items():
+            asdddd = asdddd + "\n" + id + " " + str(num)
         messagebox.showinfo("DECKLIST", asdddd)
     else:
         messagebox.showerror("ERROR", "Please select a deck")

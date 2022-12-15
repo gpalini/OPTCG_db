@@ -1108,7 +1108,7 @@
                 "Kid Pirates"
             ],
             "Card Category": "event",
-            "Effect": "[Counter] Your Leader or up to 1 of your Characters gains 4000  Power for the duration of the battle. Then, rest one of your opponent\u00e2\u20ac\u2122s Characters that costs 4 or less.",
+            "Effect": "[Counter] Your Leader or up to 1 of your Characters gains 4000 Power for the duration of the battle. Then, rest one of your opponent's Characters that costs 4 or less.",
             "Trigger": "Rest 1 of your opponent's Characters.",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
@@ -2069,7 +2069,7 @@
                 "SMILE"
             ],
             "Card Category": "character",
-            "Effect": "[On K.O.] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. 1 of your opponent\u00e2\u20ac\u2122s Characters with a cost of 5 or less.",
+            "Effect": "[On K.O.] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. 1 of your opponent's Characters with a cost of 5 or less.",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Purple"
@@ -2356,7 +2356,7 @@
                 "Navy"
             ],
             "Card Category": "leader",
-            "Effect": "[Your Turn] When you attach DON!! to this Leader or your Characters, reduce by -1 the cost of up to 1 of your opponent\u00e2\u20ac\u2122s cost 7 or lower Characters during this turn.",
+            "Effect": "[Your Turn] When you attach DON!! to this Leader or your Characters, reduce by -1 the cost of up to 1 of your opponent's cost 7 or lower Characters during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Red",
@@ -2718,7 +2718,7 @@
             ],
             "Card Category": "event",
             "Effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", K.O. up to 1 of your opponent's Characters with 3000 power or less.",
-            "Trigger": "Give up to 1 of your opponent's Leader or Character cards \u00e2\u02c6\u20193000 power during this turn.",
+            "Trigger": "Give up to 1 of your opponent's Leader or Character cards -3000 power during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Red"
@@ -3756,7 +3756,7 @@
                 "Golden Lion Pirates"
             ],
             "Card Category": "character",
-            "Trigger": "DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+            "Trigger": "DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Purple"
@@ -3775,7 +3775,7 @@
                 "Impel Down"
             ],
             "Card Category": "character",
-            "Effect": "[On Play] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+            "Effect": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Purple"
@@ -3814,7 +3814,7 @@
                 "SMILE"
             ],
             "Card Category": "character",
-            "Effect": "[On Play] DON!! \u00e2\u02c6\u20192 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.",
+            "Effect": "[On Play] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Purple"
@@ -3833,7 +3833,7 @@
                 "The Pirates Fest"
             ],
             "Card Category": "character",
-            "Effect": "[On Play] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+            "Effect": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Purple"
@@ -3890,7 +3890,7 @@
                 "World Pirates"
             ],
             "Card Category": "character",
-            "Effect": "[Activate: Main] DON!! \u00e2\u02c6\u20198 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
+            "Effect": "[Activate: Main] DON!! -8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Purple"
@@ -4042,7 +4042,7 @@
                 "Impel Down"
             ],
             "Card Category": "event",
-            "Effect": "[Main] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters \u00e2\u02c6\u20193000 power during this turn.",
+            "Effect": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters -3000 power during this turn.",
             "Trigger": "If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
@@ -4280,7 +4280,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters \u00e2\u02c6\u20192 cost during this turn.",
+            "Effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -2 cost during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Black"
@@ -4318,7 +4318,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "[DON!! \u00c3\u20141] [When Attacking] Give up to 1 of your opponent's Characters -3 to their cost during this turn.",
+            "Effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters -3 to their cost during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Black"
@@ -4337,7 +4337,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "[On Play] Give up to 1 of your opponent's Characters \u00e2\u02c6\u20192 cost during this turn.",
+            "Effect": "[On Play] Give up to 1 of your opponent's Characters -2 cost during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Black"
@@ -4451,7 +4451,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters \u00e2\u02c6\u20191 cost during this turn. Then, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+            "Effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters -1 cost during this turn. Then, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
                 "Black"
@@ -4470,7 +4470,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "[When Attacking] Give up to 1 of your opponent's Characters \u00e2\u02c6\u20192 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+            "Effect": "[When Attacking] Give up to 1 of your opponent's Characters -2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
             "Trigger": "Play this card.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
@@ -4548,7 +4548,7 @@
                 "Navy"
             ],
             "Card Category": "event",
-            "Effect": "[Main] Give up to 1 of your opponent's Characters \u00e2\u02c6\u20195 cost during this turn.",
+            "Effect": "[Main] Give up to 1 of your opponent's Characters -5 cost during this turn.",
             "Trigger": "K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
             "Product": "Summit Battle [OP-02]",
             "Color": [
@@ -5617,7 +5617,7 @@
                 "Fallen Monk Pirates"
             ],
             "Card Category": "character",
-            "Effect": "[DON!! \u00c3\u20141] If you have 3 or more Characters, this Character gains +2000 Power.",
+            "Effect": "[DON!! x1] If you have 3 or more Characters, this Character gains +2000 Power.",
             "Product": "Worst Generation [ST-02]",
             "Color": [
                 "Green"

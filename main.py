@@ -1,7 +1,7 @@
 import json
 
-JSON_PATH = "C:/Users/giorg/Desktop/OPTCG/OPTCG_db.json"
-INPUT_TXT = "E:/PyCharm Projects/input.txt"
+JSON_PATH = "OPTCG_db.json"
+INPUT_TXT = "input.txt"
 
 
 def add_to_wishlist():
