@@ -521,7 +521,8 @@
                 "Red"
             ],
             "Rarity": "Common",
-            "Cost": "4"
+            "Cost": "4",
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-027_1e3cbb_jp.jpg"
         },
         "OP01-028": {
             "Name": "Green Star Rafflesia",

@@ -1,4 +1,5 @@
 import json
+import random
 import tkinter as tk
 import io
 from tkinter import messagebox
@@ -178,95 +179,50 @@ def handle_switch_arts(img_no, images_list, img_label, switch_button):
     switch_button.config(command=lambda: handle_switch_arts(img_no, images_list, img_label, switch_button))
 
 
-def handle_view_details(event):
-    if len(listbox.curselection()) != 0:
-        details_window = tk.Toplevel()
-        curr_card = get_current_card_from_listbox()
-        details_window.title("Card details - " + curr_card["Card ID"] + " - " + curr_card["Name"])
-        details_window.resizable(False, False)
-        dw_height = 790
-        dw_width = 610
-        screen_h = root.winfo_screenheight()
-        screen_w = root.winfo_screenwidth()
-        x_c = int((screen_w / 2) - (dw_width / 2))
-        y_c = int((screen_h / 2) - (dw_height / 2))
-        details_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
-        details_window.focus()
+def handle_view_card_details(card):
+    if card is None or str(card)[0:18] == "<ButtonPress event":
+        card = get_current_card_from_listbox()
+    details_window = tk.Toplevel()
+    details_window.title("Card details - " + card["Card ID"] + " - " + card["Name"])
+    details_window.resizable(False, False)
+    dw_height = 790
+    dw_width = 610
+    screen_h = root.winfo_screenheight()
+    screen_w = root.winfo_screenwidth()
+    x_c = int((screen_w / 2) - (dw_width / 2))
+    y_c = int((screen_h / 2) - (dw_height / 2))
+    details_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
+    details_window.focus()
+    try:
+        img_url = card["Art"]
+        image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+        img = ImageTk.PhotoImage(image)
+        panel = tk.Label(details_window, image=img)
+        panel.grid(row=0, column=0)
+        images_list = [img]
+        img_url = card["Alternate Art"]
+        image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+        img = ImageTk.PhotoImage(image)
+        images_list.append(img)
         try:
-            img_url = curr_card["Art"]
-            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-            img = ImageTk.PhotoImage(image)
-            panel = tk.Label(details_window, image=img)
-            panel.grid(row=0, column=0)
-            images_list = [img]
-            img_url = curr_card["Alternate Art"]
+            img_url = card["Alternate Art 2"]
             image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
             img = ImageTk.PhotoImage(image)
             images_list.append(img)
-            try:
-                img_url = curr_card["Alternate Art 2"]
-                image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-                img = ImageTk.PhotoImage(image)
-                images_list.append(img)
-                switch_button = tk.Button(details_window, text="Switch art",
-                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
-                switch_button.grid(row=1, column=0)
-            except KeyError:
-                switch_button = tk.Button(details_window, text="Switch art",
-                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
-                switch_button.grid(row=1, column=0)
+            switch_button = tk.Button(details_window, text="Switch art",
+                                      command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
+            switch_button.grid(row=1, column=0)
         except KeyError:
-            img_url = curr_card["Art"]
-            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-            img = ImageTk.PhotoImage(image)
-            panel = tk.Label(details_window, image=img)
-            panel.grid(row=0, column=0)
-        root.mainloop()
-
-
-def handle_view_details_2(card):
-    if True:
-        details_window = tk.Toplevel()
-        details_window.title("Card details - " + card["Card ID"] + " - " + card["Name"])
-        details_window.resizable(False, False)
-        dw_height = 790
-        dw_width = 610
-        screen_h = root.winfo_screenheight()
-        screen_w = root.winfo_screenwidth()
-        x_c = int((screen_w / 2) - (dw_width / 2))
-        y_c = int((screen_h / 2) - (dw_height / 2))
-        details_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
-        details_window.focus()
-        try:
-            img_url = card["Art"]
-            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-            img = ImageTk.PhotoImage(image)
-            panel = tk.Label(details_window, image=img)
-            panel.grid(row=0, column=0)
-            images_list = [img]
-            img_url = card["Alternate Art"]
-            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-            img = ImageTk.PhotoImage(image)
-            images_list.append(img)
-            try:
-                img_url = card["Alternate Art 2"]
-                image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-                img = ImageTk.PhotoImage(image)
-                images_list.append(img)
-                switch_button = tk.Button(details_window, text="Switch art",
-                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
-                switch_button.grid(row=1, column=0)
-            except KeyError:
-                switch_button = tk.Button(details_window, text="Switch art",
-                                          command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
-                switch_button.grid(row=1, column=0)
-        except KeyError:
-            img_url = card["Art"]
-            image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
-            img = ImageTk.PhotoImage(image)
-            panel = tk.Label(details_window, image=img)
-            panel.grid(row=0, column=0)
-        root.mainloop()
+            switch_button = tk.Button(details_window, text="Switch art",
+                                      command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
+            switch_button.grid(row=1, column=0)
+    except KeyError:
+        img_url = card["Art"]
+        image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((600, 750))
+        img = ImageTk.PhotoImage(image)
+        panel = tk.Label(details_window, image=img)
+        panel.grid(row=0, column=0)
+    root.mainloop()
 
 
 def handle_refresh():
@@ -345,34 +301,40 @@ def handle_add_card_to_deck():
 def handle_view_deck():
     if deck_sel.get() != "":
         print("deck visualization " + deck_sel.get())
-        asdddd = ""
-        for card_id, num in decks_data[deck_sel.get()].items():
-            asdddd = asdddd + "\n" + card_id + " " + str(num)
-        # messagebox.showinfo("DECKLIST", asdddd)
-
         deck_window = tk.Toplevel()
         deck_window.title("Deck data - " + deck_sel.get())
         deck_window.resizable(True, True)
-        dw_height = 1080
-        dw_width = 1080
+        dw_height = 1130
+        dw_width = 1580
         screen_h = root.winfo_screenheight()
         screen_w = root.winfo_screenwidth()
         x_c = int((screen_w / 2) - (dw_width / 2))
         y_c = int((screen_h / 2) - (dw_height / 2))
         deck_window.geometry("{}x{}+{}+{}".format(dw_width, dw_height, x_c, y_c))
         deck_window.focus()
-        inc = 0
+        curr_column = 0
+        curr_row = 0
         images = []
         for card_id, num in decks_data[deck_sel.get()].items():
-            img_url = get_card_from_card_id(card_id)["Art"]
+            curr_card = get_card_from_card_id(card_id)
+            img_url = curr_card["Art"]
             image = Image.open(io.BytesIO(image_data_from_url(img_url))).resize((250, 300))
             img = ImageTk.PhotoImage(image)
             images.append(img)
-            tk.Label(deck_window, image=images[inc]).grid(row=0, column=inc)
-            butt = tk.Button(deck_window, text=card_id + " - " + str(num) + "x", font=("Sans Serif", "14"))
-            butt.grid(row=1, column=inc, padx=15, pady=15)
-            butt.config(command=lambda: handle_view_details_2(get_card_from_card_id(card_id)))
-            inc += 1
+            label_img = tk.Label(deck_window, image=images[len(images) - 1])
+            label_img.grid(row=curr_row, column=curr_column)
+            if curr_card["Rarity"] == "Leader":
+                times = str(num)
+            else:
+                times = "x" + str(num)
+            tk.Button(deck_window, text=card_id + " / " + times, font=("Sans Serif", "14"),
+                      command=lambda cid=card_id: handle_view_card_details(curr_card)).grid(
+                row=curr_row + 1, column=curr_column, padx=15, pady=15)
+            if curr_column / 5 == 1:
+                curr_row += 2
+                curr_column = 0
+            else:
+                curr_column += 1
         root.mainloop()
     else:
         messagebox.showerror("ERROR", "Please select a deck")
@@ -434,13 +396,13 @@ tk.Button(list_frame, font=("Sans Serif", "14"), text="Reload JSON", command=han
 
 listbox = tk.Listbox(list_frame, height=30, width=60, highlightthickness=1, font=("Sans Serif", "14"),
                      selectmode="SINGLE")
-listbox.bind("<Double-1>", handle_view_details)
+listbox.bind("<Double-1>", handle_view_card_details)
 listbox.grid(row=2, column=0, columnspan=3)
 
 tk.Button(right_frame, text="View card details", font=("Sans Serif", "14"),
-          command=lambda: handle_view_details(None)).grid(row=0,
-                                                          column=0,
-                                                          pady=20)
+          command=lambda: handle_view_card_details(None)).grid(row=0,
+                                                               column=0,
+                                                               pady=20)
 
 tk.Button(right_frame, text="Add card to deck", font=("Sans Serif", "14"), command=handle_add_card_to_deck).grid(row=1,
                                                                                                                  column=0,
