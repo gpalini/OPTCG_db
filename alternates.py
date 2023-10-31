@@ -8,8 +8,9 @@ from PIL import Image, ImageTk
 
 import main
 
-JSON_PATH = "OPTCG_db_alt.json"
+JSON_PATH = "OPTCG_db.json"
 JSON_DECKS = "saved_decks.json"
+JSON_COLL = "collection.json"
 
 colors = ["All"]
 rarities = ["All"]
@@ -17,6 +18,7 @@ types = ["All"]
 card_cats = ["All"]
 products = ["All"]
 decks_list = []
+collection_list = []
 
 
 def handle_json_reload():
@@ -35,6 +37,10 @@ def repopulate_listbox(event):
         for card in sets.values():
             if check_filters(card):
                 listbox.insert(999, get_long_name(card))
+                if alternate_sel.get() == 1 and card_in_collection(card):
+                    listbox.itemconfig(listbox.size() - 1, {'fg': 'red'})
+                else:
+                    listbox.itemconfig(listbox.size() - 1, {'fg': 'black'})
     title_var.set('Card list - ' + str(listbox.size()) + ' total items')
     print("size: " + str(listbox.size()))
     title.grid(row=1, column=1)
@@ -59,6 +65,14 @@ with open(JSON_DECKS, 'r+') as f2:
     else:
         decks_list.append("")
     f2.close()
+
+with open(JSON_COLL, 'r+') as f3:
+    coll_data = json.load(f3)
+    if coll_data != {}:
+        collection_list = list(coll_data.keys())
+    else:
+        collection_list.append("")
+    f3.close()
 
 
 def not_in_list(card_id, results):
@@ -108,12 +122,13 @@ def check_filters(card):
                                 return search_entry.get().strip() in card["Name"].lower()
 
 
-def got_alt_art(card):
-    try:
-        art = card['Alternate Art']
+def card_in_collection(card):
+    if len(collection_list) > 0 and card["Card ID"] in collection_list:
         return 1
-    except KeyError:
-        return 0
+
+
+def got_alt_art(card):
+    return 'Alternate Art' in card and 'OP-' in card["Product"]
 
 
 def fill_selects(color_list, rarity, types_list, card_type, product):
@@ -134,28 +149,38 @@ def fill_selects(color_list, rarity, types_list, card_type, product):
 def return_lambda(el):
     if el == "All":
         return 1
-    elif el == "Leader" or el == "Red" or el == "Leader" or el == "Straw Hat Crew [ST-01]":
+    elif el == "Leader" or el == "Red" or el == "Leader" or el == "Romance Dawn [OP-01]":
         return 2
-    elif el == "Common" or el == "Green" or el == "Character" or el == "Worst Generation [ST-02]":
+    elif el == "Common" or el == "Green" or el == "Character" or el == "Paramount War [OP-02]":
         return 3
-    elif el == "Uncommon" or el == "Blue" or el == "Event" or el == "The Seven Warlords of the Sea [ST-03]":
+    elif el == "Uncommon" or el == "Blue" or el == "Event" or el == "Pillars of Strength [OP-03]":
         return 4
-    elif el == "Rare" or el == "Purple" or el == "Stage" or el == "Animal Kingdom Pirates [ST-04]":
+    elif el == "Rare" or el == "Purple" or el == "Stage" or el == "Kingdoms of Intrigue [OP-04]":
         return 5
-    elif el == "Super Rare" or el == "Black" or el == "One Piece Film Edition [ST-05]":
+    elif el == "Super Rare" or el == "Black" or el == "[OP-05]":
         return 6
-    elif el == "Secret Rare" or el == "Yellow" or el == "Navy [ST-06]":
+    elif el == "Secret Rare" or el == "Yellow":
         return 7
-    elif el == "Promo" or el == "Big Mom Pirates [ST-07]":
-        return 8
-    elif el == "Romance Dawn [OP-01]":
-        return 9
-    elif el == "Summit Battle [OP-02]":
-        return 10
+    elif el == "Straw Hat Crew [ST-01]":
+        return 180
+    elif el == "Worst Generation [ST-02]":
+        return 181
+    elif el == "The Seven Warlords of the Sea [ST-03]":
+        return 182
+    elif el == "Animal Kingdom Pirates [ST-04]":
+        return 183
+    elif el == "One Piece Film Edition [ST-05]":
+        return 184
+    elif el == "Navy [ST-06]":
+        return 185
+    elif el == "Big Mom Pirates [ST-07]":
+        return 186
+    elif el == "Promo":
+        return 198
     elif el == "Promo [P]":
-        return 11
+        return 199
     else:
-        return 12
+        return 200
 
 
 def get_card_from_card_id(code):
@@ -193,7 +218,7 @@ def handle_view_card_details(card):
     details_window = tk.Toplevel()
     details_window.title("Card details - " + card["Card ID"] + " - " + card["Name"])
     details_window.resizable(False, False)
-    dw_height = 790
+    dw_height = 870
     dw_width = 610
     screen_h = root.winfo_screenheight()
     screen_w = root.winfo_screenwidth()
@@ -203,6 +228,9 @@ def handle_view_card_details(card):
     details_window.focus()
     imgs = []
     images_list = []
+    coll_label = tk.Label(details_window, font=("Sans Serif", "14"), text="")
+    text_var = tk.StringVar()
+    coll_label['textvariable'] = text_var
     if "Alternate Art" in card:
         if "Alternate Art 2" in card:
             if alternate_sel.get() == 1:
@@ -219,6 +247,8 @@ def handle_view_card_details(card):
         else:
             imgs.append(card["Art"])
             imgs.append(card["Alternate Art"])
+    else:
+        imgs.append(card["Art"])
     for index, single_img in enumerate(imgs):
         image = Image.open(io.BytesIO(image_data_from_url(single_img))).resize((600, 750))
         img = ImageTk.PhotoImage(image)
@@ -226,10 +256,50 @@ def handle_view_card_details(card):
             panel = tk.Label(details_window, image=img)
             panel.grid(row=0, column=0)
         images_list.append(img)
-    switch_button = tk.Button(details_window, text="Switch art",
-                              command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
-    switch_button.grid(row=1, column=0)
+    if len(imgs) > 1:
+        switch_button = tk.Button(details_window, text="Switch art",
+                                  command=lambda: handle_switch_arts(0, images_list, panel, switch_button))
+        switch_button.grid(row=1, column=0)
+    add_coll_button = tk.Button(details_window, text="Add to collection",
+                                command=lambda: manage_collection(card, 0, text_var))
+    add_coll_button.grid(row=2, column=0)
+    if card["Card ID"] in coll_data:
+        text_var.set(coll_data[card["Card ID"]])
+    else:
+        text_var.set("0")
+    coll_label.grid(row=3, column=0)
+    remove_coll_button = tk.Button(details_window, text="Remove from collection",
+                                   command=lambda: manage_collection(card, 1, text_var))
+    remove_coll_button.grid(row=4, column=0)
     root.mainloop()
+
+
+def manage_collection(card, op, text_var):
+    card_id = card["Card ID"]
+    if op == 0:
+        if card["Card ID"] in coll_data:
+            coll_data[card_id] += 1
+            text_var.set(coll_data[card_id])
+            if card_id not in collection_list:
+                collection_list.insert(999, card_id)
+            update_collection()
+            repopulate_listbox(None)
+        else:
+            coll_data[card_id] = 1
+            text_var.set(coll_data[card_id])
+            if card_id not in collection_list:
+                collection_list.insert(999, card_id)
+            update_collection()
+            repopulate_listbox(None)
+    else:
+        if card_id in coll_data:
+            coll_data[card_id] -= 1
+            text_var.set(coll_data[card_id])
+            if coll_data[card_id] <= 0:
+                del coll_data[card_id]
+                collection_list.remove(card_id)
+            update_collection()
+            repopulate_listbox(None)
 
 
 def handle_refresh():
@@ -346,6 +416,12 @@ def handle_view_deck():
         root.mainloop()
     else:
         messagebox.showerror("ERROR", "Please select a deck")
+
+
+def update_collection():
+    with open(JSON_COLL, 'w') as f:
+        json.dump(coll_data, f, indent=4)
+        print("JSON decks output successfully written in the file " + JSON_COLL + ".")
 
 
 def update_saved_decks():
@@ -490,7 +566,7 @@ tk.Checkbutton(filters_frame, text='Enable cost filter', variable=enable_cost_se
 enable_cost_sel.set(0)
 
 alternate_sel = tk.IntVar()
-tk.Checkbutton(filters_frame, text='Only alternate arts', variable=alternate_sel, onvalue=1, offvalue=0).grid(row=10,
+tk.Checkbutton(filters_frame, text='Only alternate arts AND op-', variable=alternate_sel, onvalue=1, offvalue=0).grid(row=10,
                                                                                                               column=2)
 alternate_sel.set(0)
 

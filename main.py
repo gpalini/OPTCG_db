@@ -2,6 +2,7 @@ import json
 
 JSON_PATH = "OPTCG_db.json"
 INPUT_TXT = "input.txt"
+INPUT2_TXT = "input2.txt"
 
 
 def add_to_wishlist():
@@ -29,32 +30,27 @@ def add_new_card(card_string):
     is_attr_name = True
     attr_name = ""
     new_card = {}
-    #if already_in_db(key):
-    if False:
-        print("Card " + key + " already in. Ignoring. ")
-        return False
-    else:
-        print("New card " + key + "! Proceeding...")
-        for line in card_lines:
-            if line == "\n":
-                break
+    print("New card " + key + "! Proceeding...")
+    for line in card_lines:
+        if line == "\n":
+            break
+        else:
+            if is_attr_name:
+                attr_name = line.strip()
+                is_attr_name = False
             else:
-                if is_attr_name:
-                    attr_name = line.strip()
-                    is_attr_name = False
-                else:
-                    if attr_name != "Color" and attr_name != "Type":
-                        new_card[attr_name] = line.strip()
-                    elif attr_name == "Color":
-                        new_card[attr_name] = []
-                        for single_color in line.split("/"):
-                            new_card[attr_name].append(single_color.strip())
-                    elif attr_name == "Type":
-                        new_card[attr_name] = []
-                        for single_type in line.split("/"):
-                            new_card[attr_name].append(single_type.strip())
-                    is_attr_name = True
-        return new_card
+                if attr_name != "Color" and attr_name != "Type":
+                    new_card[attr_name] = line.strip()
+                elif attr_name == "Color":
+                    new_card[attr_name] = []
+                    for single_color in line.split("/"):
+                        new_card[attr_name].append(single_color.strip())
+                elif attr_name == "Type":
+                    new_card[attr_name] = []
+                    for single_type in line.split("/"):
+                        new_card[attr_name].append(single_type.strip())
+                is_attr_name = True
+    return new_card
 
 
 def refresh_db():
@@ -67,7 +63,12 @@ def refresh_db():
             data = {}
         except KeyError as keyError:
             data = {}
-    with open(INPUT_TXT) as f:
+    read_input(INPUT_TXT, data)
+    read_input(INPUT2_TXT, data)
+
+
+def read_input(file, data):
+    with open(file) as f:
         lines = f.readlines()
         lines = "*".join(lines).replace("\n", "")
         for card in lines.split("/////"):
@@ -75,8 +76,8 @@ def refresh_db():
             if card_to_add["Product"] not in data.keys():
                 data[card_to_add["Product"]] = {}
             data[card_to_add["Product"]][card_to_add["Card ID"]] = card_to_add
-        with open(JSON_PATH, 'w') as f:
-            json.dump(data, f, indent=4)
+        with open(JSON_PATH, 'w') as f2:
+            json.dump(data, f2, indent=4)
             print("JSON output successfully written in the file " + JSON_PATH + ".")
 
 
@@ -90,3 +91,6 @@ def __main__():
             search_start()
         elif select.lower()[0] == "a":
             add_to_wishlist()
+
+
+#__main__()

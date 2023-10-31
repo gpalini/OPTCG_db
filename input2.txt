@@ -1,0 +1,4576 @@
+
+Name
+Monkey D. Luffy
+Card ID
+P-001
+Type
+Supernovas / Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x2] This character gains<Rush> (This Character can attack the turn it enters play.)
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+6
+Power
+7000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-001_b30b49_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/P-001_27def7_jp.jpg
+Alternate Art 2
+https://onepiece-cardgame.dev/images/cards/P-001_388e29_jp.jpg
+/////
+Name
+I Smell Adventure Ahead
+Card ID
+P-002
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Main] Shuffle your hand into your deck. Then, draw a card for each card shuffled this way.
+Trigger
+Activate this card's [Main] effect.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/P-002_130c0a_jp.jpg
+/////
+Name
+Eustass "Captain" Kid
+Card ID
+P-003
+Type
+Supernovas / Kid Pirates
+Card Category
+character
+Effect
+[DON!! x2] This character gains <Double Attack> (The damage this character deals to your opponent's Leader becomes 2)
+Product
+Promo [P]
+Color
+Green
+Rarity
+Promo
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-003_82d953_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/P-003_393182_jp.jpg
+/////
+Name
+Crocodile
+Card ID
+P-004
+Type
+The Seven Warlords of the Sea / Baroque Works
+Card Category
+character
+Effect
+[DON!! x1] This Character gains <Blocker>.
+Product
+Promo [P]
+Color
+Blue
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-004_d0370c_jp.jpg
+/////
+Name
+Kaido
+Card ID
+P-005
+Type
+Four Emperors/Animal Kingdom Pirates
+Card Category
+character
+Effect
+[DON!! -2] (You may return the specified number of DON!! cards from your field to your DON!! deck) :  This Character gains <Banish> during this turn. (When this character deals damage, any Trigger effects do not activate and the life is sent to the Trash instead.)
+Product
+Promo [P]
+Color
+Purple
+Rarity
+Promo
+Cost
+7
+Power
+8000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-005_d1b947_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-006
+Type
+Supernovas / Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x2] [Your Turn] This Character gains +2000 Power.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+3
+Power
+3000
+Counter Power
+2000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-006_463c9b_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-007
+Type
+Supernovas/Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x1] This Character cannot be K.O.'d in battle with <Strike> attribute Leader or Characters.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-007_541a3f_jp.jpg
+/////
+Name
+Yamato
+Card ID
+P-008
+Type
+Wano Country
+Card Category
+character
+Effect
+[Activate: Main] You may rest this Character: Rest 1 of your opponent's cost 2 or lower Characters
+Product
+Promo [P]
+Color
+Green
+Rarity
+Promo
+Cost
+3
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-008_d9dc4c_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+P-009
+Type
+Supernovas/ Heart Pirates
+Card Category
+character
+Effect
+[On Play] If your opponent has 6 or more cards in their hand, add one of your opponent's Life cards to their hand.
+Product
+Promo [P]
+Color
+Blue
+Rarity
+Promo
+Cost
+6
+Power
+7000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-009_03f16e_jp.jpg
+/////
+Name
+Kaido
+Card ID
+P-010
+Type
+Four Emperors/Animal Kingdom Pirates
+Card Category
+character
+Effect
+[End of your turn] Add 1 card from your DON!! deck and set it as active.
+Product
+Promo [P]
+Color
+Purple
+Rarity
+Promo
+Cost
+8
+Power
+9000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-010_353d29_jp.jpg
+/////
+Name
+Uta
+Card ID
+P-011
+Type
+FILM
+Card Category
+leader
+Effect
+[Activate: Main] [Once per turn] (1) (You may rest the designated number for DON!! in your Cost Area): Up to 1 of your Characters without effects gain +2000 Power during this turn.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Leader
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-011_dae822_jp.jpg
+/////
+Name
+Jellyfish Pirates
+Card ID
+P-012
+Type
+FILM / Jellyfish Pirates
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-012_7cea29_jp.jpg
+/////
+Name
+Gordon
+Card ID
+P-013
+Type
+FILM
+Card Category
+character
+Effect
+[Activate: Main] You can return this card to the bottom of the deck: Up to 1 of your opponent's Characters loses -3000 Power during this turn
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+1
+Power
+2000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/P-013_177e05_jp.jpg
+/////
+Name
+Koby
+Card ID
+P-014
+Type
+FILM / Navy
+Card Category
+character
+Effect
+<Blocker>
+Trigger
+Play this card.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+3
+Power
+3000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-014_6ba56c_jp.jpg
+/////
+Name
+Sunny-kun
+Card ID
+P-015
+Type
+FILM / Straw Hat Crew
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/P-015_c7045f_jp.jpg
+/////
+Name
+Shanks
+Card ID
+P-016
+Type
+FILM / The Four Emperors / Red Hair Pirates
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+8
+Power
+10000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-016_f4f238_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+P-017
+Type
+FILM / Supernovas / Heart Pirates
+Card Category
+character
+Effect
+[On Play] Up to 1 of your opponent's Characters lose -2000 Power during this turn.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-017_c8589d_jp.jpg
+/////
+Name
+Bartolomeo
+Card ID
+P-018
+Type
+FILM / Supernovas / Barto Club
+Card Category
+character
+Effect
+<Blocker>
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+2
+Power
+3000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-018_c98b74_jp.jpg
+/////
+Name
+Bepo
+Card ID
+P-019
+Type
+FILM / Mink Tribe / Heart Pirates
+Card Category
+character
+Effect
+[DON!! x1] [When attacking] K.O. up to 1 of your opponent's Characters with 3000 or less Power.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+3
+Power
+2000
+Counter Power
+2000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-019_1e4916_jp.jpg
+/////
+Name
+Helmeppo
+Card ID
+P-020
+Type
+FILM / Navy
+Card Category
+character
+Effect
+[On Play] Up to 1 of your opponent's Characters lose -2000 Power during this turn.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+1
+Power
+2000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-020_25336e_jp.jpg
+/////
+Name
+Ben Beckman
+Card ID
+P-021
+Type
+FILM / Red Hair Pirates
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+7
+Power
+9000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/P-021_ef259c_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-022
+Type
+FILM / Supernovas / Straw Hat Crew
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-022_736355_jp.jpg
+/////
+Name
+Yasopp
+Card ID
+P-023
+Type
+FILM / Red Hair Pirates
+Card Category
+character
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+6
+Power
+8000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/P-023_4ba795_jp.jpg
+/////
+Name
+I will become the Pirate King!!!!
+Card ID
+P-024
+Type
+Supernovas / Straw Hat Crew
+Card Category
+event
+Effect
+[Main] Your leader gets +1000 power during this turn for each of your Characters.
+Trigger
+Your leader or 1 of your Characters gets +1000 power during this turn.
+Product
+Promo [P]
+Color
+Green
+Rarity
+Promo
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/P-024_96fafd_jp.jpg
+/////
+Name
+Smoker
+Card ID
+P-025
+Type
+Navy
+Card Category
+character
+Effect
+[DON!!x1] This character can't be K.O.'d when battling Characters without (Special) attribute.
+Product
+Promo [P]
+Color
+Black
+Rarity
+Promo
+Cost
+3
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-025_6363f4_jp.jpg
+/////
+Name
+Morgan
+Card ID
+P-026
+Type
+Navy
+Card Category
+character
+Effect
+[When Attacking] Give up to 1 of your opponent's Characters -3 to their cost this turn.
+Product
+Promo [P]
+Color
+Black
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-026_191c7b_jp.jpg
+/////
+Name
+Franky Shogun
+Card ID
+P-027
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+This cards name is also treated as [Franky]. [Opponent's Turn] All your Characters with a printed power of 3000 or less gain +1000 power.
+Product
+Promo [P]
+Color
+Red
+Rarity
+Promo
+Cost
+2
+Power
+4000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/P-027_88985f_jp.jpg
+/////
+Name
+Portgas. D. Ace
+Card ID
+P-028
+Type
+Whitebeard Pirates
+Card Category
+character
+Effect
+<Double Attack> (The damage this character deals to your opponent's Leader becomes 2)
+Product
+Promo [P]
+Color
+Red
+Rarity
+Super Rare
+Cost
+5
+Power
+6000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/OP02-013_89a520_jp.jpg
+/////
+Name
+Bartolomeo
+Card ID
+P-029
+Type
+FILM / Supernovas / Barto Club
+Card Category
+character
+Effect
+[End of Your Turn] You may rest this Character: Set up to 1 of your {FILM} type Characters other than [Bartolomeo] as active.
+Product
+Promo [P]
+Color
+Green
+Rarity
+Promo
+Cost
+2
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-029_6c3cf8_jp.jpg
+/////
+Name
+Jinbe
+Card ID
+P-030
+Type
+Fish-Man/The Seven Warlords of the Sea/Sun Pirates
+Card Category
+character
+Effect
+[On K.O] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.
+Product
+Promo [P]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-030_c4d170_jp.jpg
+/////
+Name
+Uta
+Card ID
+P-031
+Type
+FILM
+Card Category
+character
+Effect
+[On Play] Add 1 DON!! card from your DON!! deck to your Cost Area rested.
+Product
+Promo [P]
+Color
+Purple
+Rarity
+Promo
+Cost
+5
+Power
+6000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/P-031_543cd1_jp.jpg
+/////
+Name
+Sengoku
+Card ID
+P-032
+Type
+Navy
+Card Category
+character
+Effect
+[DON!!x1] [Your Turn] All of your opponent's Characters get -2 to their cost.
+Product
+Promo [P]
+Color
+Black
+Rarity
+Promo
+Cost
+5
+Power
+6000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/P-032_a01bf2_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+ST01-001
+Type
+Supernovas/Straw Hat Crew
+Card Category
+leader
+Effect
+[Activate: Main][Once Per Turn] Give this Leader or 1 of your Characters 1 rested DON!! card.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-001_85f00c_jp.jpg
+/////
+Name
+Usopp
+Card ID
+ST01-002
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[DON!!X2] (When Attacking)  You opponent cannot activate <Blocker> of 5000 or higher Power Characters during this battle.
+Trigger
+Play this card.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Power
+2000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-002_0864a6_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-002_d9434c_jp.jpg
+/////
+Name
+Carue
+Card ID
+ST01-003
+Type
+Animal / Alabasta
+Card Category
+character
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-003_36520e_jp.jpg
+/////
+Name
+Sanji
+Card ID
+ST01-004
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x2] This character gains<Rush> (This Character can attack the turn it enters play.)
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Power
+4000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-004_2c7061_jp.jpg
+/////
+Name
+Jinbe
+Card ID
+ST01-005
+Type
+Fish-Man / Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x1] [When Attacking] Your Leader or 1 of your Characters other than this card gains +1000 power during this turn.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+3
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-005_f940f0_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-005_169f64_jp.jpg
+/////
+Name
+Tony Tony Chopper
+Card ID
+ST01-006
+Type
+Animal/Straw Hat Crew
+Card Category
+character
+Effect
+<Blocker>
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-006_26d3d1_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-006_78e412_jp.jpg
+Alternate Art 2
+https://onepiece-cardgame.dev/images/cards/ST01-006_5a7758_jp.jpg
+/////
+Name
+Nami
+Card ID
+ST01-007
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[Activate: Main][Once Per Turn] Give your Leader or 1 of your Characters 1 rested DON!! card.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Power
+1000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-007_dec1fa_jp.jpg
+/////
+Name
+Nico Robin
+Card ID
+ST01-008
+Type
+Straw Hat Crew
+Card Category
+character
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-008_bfa16a_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-008_badd0c_jp.jpg
+/////
+Name
+Nefertari Vivi
+Card ID
+ST01-009
+Type
+Alabasta
+Card Category
+character
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-009_137f78_jp.jpg
+/////
+Name
+Franky
+Card ID
+ST01-010
+Type
+Straw Hat Crew
+Card Category
+character
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-010_8266c1_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-010_c7e0bb_jp.jpg
+/////
+Name
+Brook
+Card ID
+ST01-011
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[On Play] Give your Leader or one of your Characters 2 rested DON!! cards.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+2000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-011_bfdc0f_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+ST01-012
+Type
+Supernovas/Straw Hat Crew
+Card Category
+character
+Effect
+<Rush>(This Character can attack the turn it enters play.) [DON!! x2][When Attacking] Your opponent's can't activate <Blocker> for this battle.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Super Rare
+Cost
+5
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-012_6bfaec_jp.jpg
+/////
+Name
+Roronoa Zoro
+Card ID
+ST01-013
+Type
+Supernovas / Straw Hat Crew
+Card Category
+character
+Effect
+[DON!!x1] This Character gains +1000 power.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Super Rare
+Cost
+3
+Power
+5000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-013_60b716_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST01-013_58546f_jp.jpg
+/////
+Name
+Guard Point
+Card ID
+ST01-014
+Type
+Animal/Straw Hat Crew
+Card Category
+event
+Effect
+[Counter] Your Leader or 1 of your Characters gains +3000 power during this battle.
+Trigger
+Your Leader or 1 of your Characters gains +1000 power during this turn.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-014_237f36_jp.jpg
+/////
+Name
+Jet Pistol
+Card ID
+ST01-015
+Type
+Supernovas/Straw Hat Crew
+Card Category
+event
+Effect
+[Main] K.O. 1 of your opponent's Characters with a power of 6000 or less.
+Trigger
+Activate this card's Main effect.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+4
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-015_b1a089_jp.jpg
+/////
+Name
+Diable Jambe
+Card ID
+ST01-016
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Main] Choose one of your Leader or Characters with the {Straw Hat Crew} trait: During this turn,  your opponent cannot activate <Blocker> when that Leader or Character attacks.
+Trigger
+K.O. 1 of your opponent's Characters with a Cost of 3 or less with <Blocker>.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-016_d23d2c_jp.jpg
+/////
+Name
+Thousand Sunny
+Card ID
+ST01-017
+Type
+Straw Hat Crew
+Card Category
+stage
+Effect
+[Activate: Main] You may rest this Stage: 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.
+Product
+Straw Hat Crew [ST-01]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST01-017_8b5901_jp.jpg
+/////
+Name
+Eustass "Captain" Kid
+Card ID
+ST02-001
+Type
+Supernovas / Kid Pirates
+Card Category
+leader
+Effect
+[Activate: Main] (Once per Turn) (3) (Rest the indicated number of Don!! in your Cost Area) You may trash a card from your hand: Switch this Leader to Active.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-001_bed10b_jp.jpg
+/////
+Name
+Vito
+Card ID
+ST02-002
+Type
+Firetank Pirates
+Card Category
+character
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-002_82252e_jp.png
+/////
+Name
+Urouge
+Card ID
+ST02-003
+Type
+Supernovas/Fallen Monk Pirates
+Card Category
+character
+Effect
+[DON!! x1] If you have 3 or more Characters, this Character gains +2000 Power.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-003_b3c502_jp.jpg
+/////
+Name
+Capone "Gang" Bege
+Card ID
+ST02-004
+Type
+Supernovas/Firetank Pirates
+Card Category
+character
+Effect
+<Blocker> 
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+1
+Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-004_12f439_jp.jpg
+/////
+Name
+Killer
+Card ID
+ST02-005
+Type
+Supernovas / Kid Pirates
+Card Category
+character
+Effect
+[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less
+Trigger
+Play this card
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+3
+Power
+3000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-005_0294b4_jp.jpg
+/////
+Name
+Koby
+Card ID
+ST02-006
+Type
+Navy
+Card Category
+character
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-006_120abd_jp.jpg
+/////
+Name
+Jewelry Bonney
+Card ID
+ST02-007
+Type
+Supernovas/Bonney Pirates
+Card Category
+character
+Effect
+[Activate: Main] (1) (Rest the designated number of DON!! in your Cost Area) Rest this Character: Look at the top 5 cards of your deck, reveal 1 {Supernovas} type card and add it to your hand. Place the remaining cards at the bottom of the deck in any order.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+1
+Power
+1000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-007_7cce7b_jp.jpg
+/////
+Name
+Scratchmen Apoo
+Card ID
+ST02-008
+Type
+Supernovas/On Air Pirates
+Card Category
+character
+Effect
+[DON!!x1] [When attacking] Rest one of your opponent's DON!!
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+2000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-008_4a11c6_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+ST02-009
+Type
+Supernovas/ Heart Pirates
+Card Category
+character
+Effect
+[On Play] Set one of your rested Characters with the Supernovas or Heart Pirates trait with a cost of 5 or less to active
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Super Rare
+Cost
+5
+Power
+6000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-009_977b7d_jp.jpg
+/////
+Name
+Basil Hawkins
+Card ID
+ST02-010
+Type
+Supernovas / Hawkins Pirates
+Card Category
+character
+Effect
+[DON!!x1] [Once Per turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+5
+Power
+6000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-010_1a03c3_jp.jpg
+/////
+Name
+Heat
+Card ID
+ST02-011
+Type
+Kid Pirates
+Card Category
+character
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-011_104b84_jp.jpg
+/////
+Name
+Bepo
+Card ID
+ST02-012
+Type
+Mink Tribe / Heart Pirates
+Card Category
+character
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-012_61c33f_jp.jpg
+/////
+Name
+Eustass "Captain" Kid
+Card ID
+ST02-013
+Type
+Supernovas / Kid Pirates
+Card Category
+character
+Effect
+<Blocker> [DON!! x1] [When your turn ends] Switch this Character to Active
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Super Rare
+Cost
+7
+Power
+7000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-013_4346d0_jp.jpg
+/////
+Name
+X Drake
+Card ID
+ST02-014
+Type
+Navy / Supernovas / Drake Pirates
+Card Category
+character
+Effect
+[DON!!x1] [During your Turn] While this character is rested, +1000 Power for all your Marines and Supernova Characters and Leader.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-014_44b504_jp.jpg
+/////
+Name
+Scalpel
+Card ID
+ST02-015
+Type
+Supernovas / Heart Pirates
+Card Category
+event
+Effect
+[Counter] Your Leader or up to 1 of your Characters gains 2000 Power for the duration of the battle. Then, switch up to 1 of your Don!! to Active.
+Trigger
+Switch up to 2 of your Don!! to Active.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-015_4d646e_jp.jpg
+/////
+Name
+Repel
+Card ID
+ST02-016
+Type
+Supernovas/Kid Pirates
+Card Category
+event
+Effect
+[Counter] Your Leader or 1 of your Characters gains +4000 Power during this battle. Then, set 1 of your DON!! rested as active.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-016_0f7bd3_jp.jpg
+/////
+Name
+Straw Sword
+Card ID
+ST02-017
+Type
+Supernovas/Hawkins Pirates
+Card Category
+event
+Effect
+[Main] Rest 1 of your opponent's Characters.
+Trigger
+Play 1 {Supernovas} type card with a cost of 2 or less from your hand.
+Product
+Worst Generation [ST-02]
+Color
+Green
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST02-017_8e32c5_jp.jpg
+/////
+Name
+Crocodile
+Card ID
+ST03-001
+Type
+The Seven Warlords of the Sea / Baroque Works
+Card Category
+leader
+Effect
+[Activate: Main] (Once per Turn) [DON!! -4]: Return up to one cost 5 or lower Character to its owner's hand.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-001_6be431_jp.jpg
+/////
+Name
+Edward Weevil
+Card ID
+ST03-002
+Type
+The Seven Warlords of the Sea
+Card Category
+character
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-002_619dd0_jp.jpg
+/////
+Name
+Crocodile
+Card ID
+ST03-003
+Type
+The Seven Warlords of the Sea/Baroque Works
+Card Category
+character
+Effect
+<Blocker> (When your opponent attacks, by resting this card, you can change the attack target to this card.) [DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Super Rare
+Cost
+5
+Power
+6000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-003_778e99_jp.jpg
+/////
+Name
+Gecko Moria
+Card ID
+ST03-004
+Type
+The Seven Warlords of the Sea/Thriller Bark Pirate
+Card Category
+character
+Effect
+[On Play] Add 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-004_13f97b_jp.jpg
+/////
+Name
+Dracule Mihawk
+Card ID
+ST03-005
+Type
+The Seven Warlords of the Sea
+Card Category
+character
+Effect
+[DON!! x1] [When attacking] Draw 2 cards, then trash 2 cards from your hand.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+2000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-005_d49403_jp.jpg
+/////
+Name
+Jinbe
+Card ID
+ST03-006
+Type
+Fish-Man/The Seven Warlords of the Sea/Sun Pirates
+Card Category
+character
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-006_984c88_jp.jpg
+/////
+Name
+Sentomaru
+Card ID
+ST03-007
+Type
+Navy
+Card Category
+character
+Effect
+[DON!! x1] [Activate: Main] [Once Per Turn] (2) (Rest the designated amount of DON!! cards in your Cost Area.): Play up to 1 cost 4 or lower [Pacifista] from your deck. Then, shuffle your deck.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-007_0ca718_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+ST03-008
+Type
+The Seven Warlords of the Sea/Heart Pirates
+Card Category
+character
+Effect
+<Blocker> 
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+1
+Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-008_744125_jp.jpg
+/////
+Name
+Donquixote Doflamingo
+Card ID
+ST03-009
+Type
+The Seven Warlords of the Sea / Donquixote Pirates
+Card Category
+character
+Effect
+[On Play] Return a cost 7 or lower Character to its owners hand.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Super Rare
+Cost
+7
+Power
+7000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-009_226b6c_jp.jpg
+/////
+Name
+Bartholomew Kuma
+Card ID
+ST03-010
+Type
+The Seven Warlords of the Sea/Revolutionary Army
+Card Category
+character
+Effect
+[On Play] Look at 3 cards from the top of your deck and return them to the top or bottom of the deck in any order.
+Trigger
+Play this card.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+2
+Power
+3000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-010_66138d_jp.jpg
+/////
+Name
+Buggy
+Card ID
+ST03-011
+Type
+The Seven Warlords of the Sea / Buggy's Delivery
+Card Category
+character
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-011_b28325_jp.jpg
+/////
+Name
+Pacifista
+Card ID
+ST03-012
+Type
+Biological Weapon/Navy
+Card Category
+character
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-012_c5aa66_jp.jpg
+/////
+Name
+Boa Hancock
+Card ID
+ST03-013
+Type
+The Seven Warlords of the Sea/Kuja Pirates
+Card Category
+character
+Effect
+<Blocker> 
+Trigger
+Play this card.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+3
+Power
+1000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-013_2e4c7b_jp.jpg
+/////
+Name
+Marshall D. Teach
+Card ID
+ST03-014
+Type
+The Seven Warlords of the Sea
+Card Category
+character
+Effect
+[On Play] Return a Character that costs 3 or less to their owner's hand
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-014_05ecda_jp.jpg
+/////
+Name
+Sables
+Card ID
+ST03-015
+Type
+The Seven Warlords of the Sea/Baroque Works
+Card Category
+event
+Effect
+[Main] Return 1 of your opponent's Characters with a cost of 7 or less to its owner's hand.
+Trigger
+Activate this card's [Main] effect.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+4
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-015_cb73fb_jp.jpg
+/////
+Name
+Thrust Pad Cannon
+Card ID
+ST03-016
+Type
+The Seven Warlords of the Sea / Revolutionary Army
+Card Category
+event
+Effect
+[Counter] Return a Character with a cost of 3 or less to its owner's hand.
+Trigger
+Activate this card's [Counter] effect.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-016_78085a_jp.jpg
+/////
+Name
+Love Love Beam
+Card ID
+ST03-017
+Type
+The Seven Warlords of the Sea / Kuja Pirates
+Card Category
+event
+Effect
+[Counter] Your Leader or up to 1 of your Characters gains 4000 Power for the duration of the battle. Then, if you have 3 or less cards in hand, draw 1.
+Product
+The Seven Warlords of the Sea [ST-03]
+Color
+Blue
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST03-017_1445ae_jp.jpg
+/////
+Name
+Kaido
+Card ID
+ST04-001
+Type
+Four Emperors / Animal Kingdom Pirates
+Card Category
+leader
+Effect
+[Activate: Main][Once Per Turn] DON!! -7 (You may return the specified number of DON!! cards from your field to your DON!! deck): Trash the top card of your opponent's life.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-001_2580e6_jp.jpg
+/////
+Name
+Ulti
+Card ID
+ST04-002
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] DON!! -1: (You may return the specified number of DON!! cards from your field to your DON!! deck.) Play up to 1 [Page One] character card with a cost of 4 or less from your hand without paying its cost.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+2000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-002_6def11_jp.jpg
+/////
+Name
+Kaido
+Card ID
+ST04-003
+Type
+Four Emperors / Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] DON!! -5: (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may K.O. one of your opponent's Characters with a cost of 6 or less. Then this character gains <Rush> for the turn. (This character can attack the turn it comes into play.)
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+9
+Power
+10000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-003_7754a4_jp.jpg
+/////
+Name
+King
+Card ID
+ST04-004
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] DON!! -1: (You may return the specified number of DON!! cards from your field to your DON!! deck.): KO up to 1 of your opponent's Characters with a cost of 4 or less.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+6
+Power
+7000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-004_c7e465_jp.jpg
+/////
+Name
+Queen
+Card ID
+ST04-005
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+<Blocker> (When your opponent attacks, by resting this card, you can change the attack target to this card.) [On Play] DON!! -1 (Return the specified amount of DON!! from your field to your DON!! deck.): Draw 2 cards, then trash 1 card from your hand.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+5
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-005_3202af_jp.jpg
+/////
+Name
+Sasaki
+Card ID
+ST04-006
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] [Don!! -1] You can draw 1 card.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-006_ffcff6_jp.jpg
+/////
+Name
+Sheepshead
+Card ID
+ST04-007
+Type
+Animal Kingdom Pirates / SMILE
+Card Category
+character
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-007_0ad50d_jp.jpg
+/////
+Name
+Jack
+Card ID
+ST04-008
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] You may trash one card from your hand: Reveal one DON!! from your DON!! deck in Active.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-008_3cbf2f_jp.jpg
+/////
+Name
+Ginrummy
+Card ID
+ST04-009
+Type
+Animal Kingdom Pirates / SMILE
+Card Category
+character
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-009_2cd3ff_jp.jpg
+/////
+Name
+Who's who
+Card ID
+ST04-010
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+[On Play] [Don!! -1] K.O. up to one of your opponent's cost 3 or lower Characters.
+Trigger
+You may play this card.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+3000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-010_b58a64_jp.jpg
+/////
+Name
+Black Maria
+Card ID
+ST04-011
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Effect
+<Blocker>
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+2000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-011_57f570_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST04-011_b4596d_jp.jpg
+/////
+Name
+Page One
+Card ID
+ST04-012
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-012_94a7e2_jp.jpg
+/////
+Name
+X Drake
+Card ID
+ST04-013
+Type
+Navy / Drake Pirates/ Animal Kingdom Pirates
+Card Category
+character
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-013_2e656f_jp.jpg
+/////
+Name
+All Star Disaster
+Card ID
+ST04-014
+Type
+Animal Kingdom Pirates
+Card Category
+event
+Effect
+[Main] Draw 1 card. Then, add 1 DON!! card from your DON!! deck to your Cost Area active.
+Trigger
+Activate this card's [Main] effect.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-014_7fca90_jp.jpg
+/////
+Name
+Brachio Bomber
+Card ID
+ST04-015
+Type
+Animal Kingdom Pirates
+Card Category
+event
+Effect
+[Main] K.O. 1 of your opponent's Characters witha  cost of 6 or less. Then add 1 DON!! card from your DON!! deck to your Cost Area active.
+Trigger
+Add 1 DON!! card from your DON!! deck to your Cost Area active.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+6
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-015_65be70_jp.jpg
+/////
+Name
+Blast Breath
+Card ID
+ST04-016
+Type
+Four Emperors/Animal Kingdom Pirates
+Card Category
+event
+Effect
+[Counter] [Don!! -1] (Return 1 of your DON!! cards to your DON!! deck.) For this battle,  your Leader or 1 of your Characters gets +4000 power.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-016_b3f8c0_jp.jpg
+/////
+Name
+Onigashima
+Card ID
+ST04-017
+Type
+Animal Kingdom Pirates
+Card Category
+stage
+Effect
+[Activate: Main] You may Rest this card (If your Leader has the [Animal Kingdom Pirates] trait): Add 1 DON!! card from your DON!! deck to your Cost Area in Rest.
+Product
+Animal Kingdom Pirates [ST-04]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Art
+https://onepiece-cardgame.dev/images/cards/ST04-017_80f08b_jp.jpg
+/////
+Name
+Shanks
+Card ID
+ST05-001
+Type
+FILM/ Four Emperors / Red Haired Pirates
+Card Category
+leader
+Effect
+[Activate: Main] [Once per turn] DON!! -3: Your <FILM> type Characters gain +2000 Power during this turn.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-001_fc876b_jp.jpg
+/////
+Name
+Ain
+Card ID
+ST05-002
+Type
+FILM/ Neo Navy
+Card Category
+character
+Effect
+[On Play] Add 1 card from your DON!! deck and set it as rested.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-002_9ec62f_jp.jpg
+/////
+Name
+Ann
+Card ID
+ST05-003
+Type
+FILM/ Pirate Fest
+Card Category
+character
+Effect
+<Blocker> 
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+3000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-003_5aa9af_jp.jpg
+/////
+Name
+Uta
+Card ID
+ST05-004
+Type
+FILM
+Card Category
+character
+Effect
+<Blocker> [On Block] DON!!-1: Rest up to 1 of your opponent's Characters that costs 5 or less.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-004_59ebac_jp.jpg
+/////
+Name
+Carina
+Card ID
+ST05-005
+Type
+FILM/ Gran Tesoro
+Card Category
+character
+Effect
+[Activate: Main] [Once Per Turn] Rest this Character, you may send one <FILM> type card from your hand to the trash: If your opponent has more DON!! cards on their field than you, add 2 cards from your DON!! deck and set it as rested.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-005_a000ba_jp.jpg
+/////
+Name
+Gild Tesoro
+Card ID
+ST05-006
+Type
+FILM/ Gran Tesoro
+Card Category
+character
+Effect
+[When Attacking] DON!! -2: Draw 2 cards.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+5
+Power
+6000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-006_99517e_jp.jpg
+/////
+Name
+Gordon
+Card ID
+ST05-007
+Type
+FILM
+Card Category
+character
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-007_8a746a_jp.jpg
+/////
+Name
+Shiki
+Card ID
+ST05-008
+Type
+FILM/ Golden Lion Pirates
+Card Category
+character
+Effect
+If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+6
+Power
+7000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-008_de8696_jp.jpg
+/////
+Name
+Scarlet
+Card ID
+ST05-009
+Type
+FILM / Animal / Golden Lion Pirates
+Card Category
+character
+Trigger
+Play this card.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-009_d098fb_jp.jpg
+/////
+Name
+Z
+Card ID
+ST05-010
+Type
+FILM/ Neo Navy
+Card Category
+character
+Effect
+If this Character battles with a <Strike> attribute Character, this Character gains +3000 Power during this turn. [Activate: Main] [Once per turn] DON!! -1: This Character gains +2000 Power during this turn.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+7
+Power
+8000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-010_96d5c9_jp.jpg
+/////
+Name
+Douglass Bullet
+Card ID
+ST05-011
+Type
+FILM/ Pirate Fest
+Card Category
+character
+Effect
+[Activate: Main] [Once per turn] DON!! -4: Rest up to 2 of your opponent's cost 6 or lower Characters. Then, this Character gains <Double Attack> during this turn.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+8
+Power
+10000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-011_997af6_jp.jpg
+/////
+Name
+Baccarat
+Card ID
+ST05-012
+Type
+FILM/ Gran Tesoro
+Card Category
+character
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-012_0d05bb_jp.jpg
+/////
+Name
+Binz
+Card ID
+ST05-013
+Type
+FILM/ Neo Navy
+Card Category
+character
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-013_35939d_jp.jpg
+/////
+Name
+Buena Fiesta
+Card ID
+ST05-014
+Type
+FILM/ Pirate Fest
+Card Category
+character
+Effect
+[On Play] Look at the top 5 cards of your deck, reveal 1 {FILM} type card other than [Buena Fiesta] and add it to your hand. Then, return the other cards to the bottom of the deck in any order.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+1
+Counter Power
+2000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-014_7c514e_jp.jpg
+/////
+Name
+Dr. Indigo
+Card ID
+ST05-015
+Type
+FILM/ Scientist/ Golden Lion Pirates
+Card Category
+character
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-015_cc9b87_jp.jpg
+/////
+Name
+Lion's Threat: Imperial Earth Bind
+Card ID
+ST05-016
+Type
+FILM/ Golden Lion Pirates
+Card Category
+event
+Effect
+[Main] DON!! -2: K.O. up to 1 of your opponent's cost 5 or lower Characters.
+Trigger
+Add 1 card from your DON!! deck and set it as active.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-016_3762d9_jp.jpg
+/////
+Name
+Union Armado
+Card ID
+ST05-017
+Type
+FILM/ Pirate Fest
+Card Category
+event
+Effect
+[Counter] Up to 1 of your {FILM} type Leader or Characters gain +4000 Power during this battle. If that card is a Character, that Character cannot be K.O.'d during this turn.
+Trigger
+Add 1 card from your DON!! deck and set it as active.
+Product
+One Piece Film Edition [ST-05]
+Color
+Purple
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST05-017_f6e3f6_jp.jpg
+/////
+Name
+Sakazuki
+Card ID
+ST06-001
+Type
+Navy
+Card Category
+leader
+Effect
+[Activate: Main] [Once per Turn] (3) (You may rest the designated number for DON!! in your Cost Area) You may trash 1 card from your hand: K.O. up to 1 of your opponent's characters that costs 0.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-001_f1ba4d_jp.jpg
+/////
+Name
+Koby
+Card ID
+ST06-002
+Type
+Navy
+Card Category
+character
+Effect
+[On Play] You may trash a card from your hand: K.O. up to 1 of your opponent's Characters that costs 0.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Power
+2000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-002_213f9e_jp.jpg
+/////
+Name
+Django
+Card ID
+ST06-003
+Type
+Navy
+Card Category
+character
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Power
+3000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-003_061d58_jp.jpg
+/////
+Name
+Smoker
+Card ID
+ST06-004
+Type
+Navy
+Card Category
+character
+Effect
+This character can not be K.O.'d by card effects. [DON!!x1] As long as there is a Character that costs 0 in play, this character gains <Double Attack> (This card deals 2 damage)
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Super Rare
+Cost
+5
+Life
+5
+Power
+7000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-004_7e8b4c_jp.jpg
+/////
+Name
+Sengoku
+Card ID
+ST06-005
+Type
+Navy
+Card Category
+character
+Effect
+[When Attacking] For this turn, -4 cost for one of your opponent's characters.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+5
+Power
+6000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-005_65f240_jp.jpg
+/////
+Name
+Tashigi
+Card ID
+ST06-006
+Type
+Navy
+Card Category
+character
+Effect
+[Activate: Main] You may rest this Character: For this turn, -2 cost for up to one of your opponent's Characters.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+2000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-006_d849ff_jp.jpg
+/////
+Name
+Tsuru
+Card ID
+ST06-007
+Type
+Navy
+Card Category
+character
+Effect
+<Blocker>
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Power
+2000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-007_25bff6_jp.jpg
+/////
+Name
+Hina
+Card ID
+ST06-008
+Type
+Navy
+Card Category
+character
+Effect
+[On Play] For this turn, -4 cost for up to one of your opponent's characters.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-008_41235a_jp.jpg
+/////
+Name
+Fullbody
+Card ID
+ST06-009
+Type
+Navy
+Card Category
+character
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-009_f6a6e4_jp.jpg
+/////
+Name
+Helmeppo
+Card ID
+ST06-010
+Type
+Navy
+Card Category
+character
+Effect
+[On Play] -3 cost for up to 1 of your opponent's Characters during this turn.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-010_165ce6_jp.jpg
+/////
+Name
+Momonga
+Card ID
+ST06-011
+Type
+Navy
+Card Category
+character
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-011_4e21de_jp.jpg
+/////
+Name
+Monkey D. Garp
+Card ID
+ST06-012
+Type
+Navy
+Card Category
+character
+Effect
+[Activate: Main] Trash 1 card and rest this card: K.O. up to 1 of your opponent's cost 4 or lower Characters.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Super Rare
+Cost
+5
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-012_304edb_jp.jpg
+/////
+Name
+T-Bone
+Card ID
+ST06-013
+Type
+Navy
+Card Category
+character
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-013_9f4d9e_jp.jpg
+/////
+Name
+Impact Wave
+Card ID
+ST06-014
+Type
+Navy
+Card Category
+event
+Effect
+[Counter] Give up to 1 of your Leader or Characters +4000 Power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.
+Trigger
+K.O. up to 1 of your opponent's cost 4 or lower Characters.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-014_8074ed_jp.jpg
+/////
+Name
+Great Eruption
+Card ID
+ST06-015
+Type
+Navy
+Card Category
+event
+Effect
+[Main] Draw 1 card. One of your opponent's Characters Cost -2 for this turn.
+Trigger
+Your opponent picks 1 card from their own hand and trashes it.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-015_21b9be_jp.jpg
+/////
+Name
+White Out
+Card ID
+ST06-016
+Type
+Navy
+Card Category
+event
+Effect
+[Counter] Give up to 1 of your Leader or Characters +2000 Power during this battle.
+Trigger
+Draw 1. Your Characters cannot be K.O.'d during this turn.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-016_49cf4e_jp.jpg
+/////
+Name
+Marineford
+Card ID
+ST06-017
+Type
+Navy
+Card Category
+stage
+Effect
+[On Play] Give up to 1 of your opponent's Characters -1 cost during this turn. [Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters -1 to their cost during this turn.
+Product
+Navy [ST-06]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST06-017_825bcb_jp.jpg
+/////
+Name
+Charlotte Linlin
+Card ID
+ST07-001
+Type
+The Four Emperors / Big Mom Pirates
+Card Category
+leader
+Effect
+[When Attacking] [DON!! x2] You may add 1 card from the top or bottom of your Life area to your hand: If your life is at 2 or less, you may place up to 1 card from your hand a the top of your Life area.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-001_5fa0a6_jp.jpg
+/////
+Name
+Charlotte Anana
+Card ID
+ST07-002
+Type
+Big Mom Pirates
+Card Category
+character
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+1
+Power
+3000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-002_36fc6b_jp.jpg
+/////
+Name
+Charlotte Katakuri
+Card ID
+ST07-003
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+[On Play] Look at up to 1 Life card from the top of your or your opponent's Life Area and put it either on the top or the bottom of the Life Area. Then, if you have less Life Cards than your opponent, this Character gains <Rush>
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Super Rare
+Cost
+4
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-003_4cc212_jp.jpg
+/////
+Name
+Charlotte Snack
+Card ID
+ST07-004
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+[DON!!x1] [When Attacking] You may add the top or bottom card of your Life area to your hand: This Character gains <Banish> and 1000 power for this battle.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+5
+Power
+6000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-004_5443e0_jp.jpg
+/////
+Name
+Charlotte Daifuku
+Card ID
+ST07-005
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+[DON!!x1] [When Attacking] You may take 1 card from the top or bottom of your Life Area and put it in your hand: Put up to 1 card from the top of your deck on top of your Life Area.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-005_313cbe_jp.jpg
+/////
+Name
+Charlotte Flampe
+Card ID
+ST07-006
+Type
+Big Mom Pirates
+Card Category
+character
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-006_017638_jp.jpg
+/////
+Name
+Charlotte Brulee
+Card ID
+ST07-007
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+<Blocker> 
+Trigger
+Play this card.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+1000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-007_b1d372_jp.jpg
+/////
+Name
+Charlotte Pudding
+Card ID
+ST07-008
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+[On Play] Look at up to 1 Life card from the top of your or your opponent's Life Area and put it either on the top or the bottom of the Life Area.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+2
+Power
+3000
+Counter Power
+2000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-008_148d82_jp.jpg
+/////
+Name
+Charlotte Mont D'Or
+Card ID
+ST07-009
+Type
+Big Mom Pirates
+Card Category
+character
+Effect
+[Activate: Main] You may rest this Character and take the card at the top or bottom of your Life Area to your hand: K.O. up to 1 of your opponent's Characters that costs 3 or less
+Trigger
+You may trash 1 card from your hand: Play this card.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-009_48e209_jp.jpg
+/////
+Name
+Charlotte Linlin
+Card ID
+ST07-010
+Type
+The Four Emperors / Big Mom Pirates
+Card Category
+character
+Effect
+[On Play] Your opponent chooses 1 from below. - Trash 1 Life card from the top card of your opponent's Life area. - Put 1 card from the top of your deck on top of your Life area.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Super Rare
+Cost
+7
+Power
+8000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-010_e63399_jp.jpg
+/////
+Name
+Zeus
+Card ID
+ST07-011
+Type
+Big Mom Pirates / Homies
+Card Category
+character
+Effect
+[Activate: Main] You may rest this card: Up to 1 of your [Charlotte Linlin] gain <Banish> during this turn.
+Trigger
+Play this card
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+3000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-011_a96efa_jp.jpg
+/////
+Name
+Baron Tamago
+Card ID
+ST07-012
+Type
+Big Mom Pirates
+Card Category
+character
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-012_2d711b_jp.jpg
+/////
+Name
+Prometheus
+Card ID
+ST07-013
+Type
+Big Mom Pirates / Homies
+Card Category
+character
+Effect
+[Activate: Main] You may rest this card: Up to 1 of your [Charlotte Linlin] gain <Double Attack> during this turn.
+Trigger
+Play this card
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+3000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-013_696b91_jp.jpg
+/////
+Name
+Pekoms
+Card ID
+ST07-014
+Type
+Minks / Big Mom Pirates
+Card Category
+character
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-014_ebf1de_jp.jpg
+/////
+Name
+Soul Pocus
+Card ID
+ST07-015
+Type
+The Four Emperors / Big Mom Pirates
+Card Category
+event
+Effect
+[Main] Your opponent chooses 1 from below. - Trash 1 Life card from the top card of your opponent's Life area. - Put 1 card from the top of your deck on top of your Life area.
+Trigger
+Activate this card's [Main] effect
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+5
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-017_30ab3b_jp.jpg
+/////
+Name
+Power Mochi
+Card ID
+ST07-016
+Type
+Big Mom Pirates
+Card Category
+event
+Effect
+[Counter] Look at up to 1 Life card from the top of your or your opponent's Life Area and put it either on the top or the bottom of the Life Area. Then, up to 1 of your Leader or Characters gains +2000 Power for this battle.
+Trigger
+Draw 1 card. Look at up to 1 Life card from the top of your or your opponent's Life Area and put it either on the top or the bottom of the Life Area.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-016_1ed109_jp.jpg
+/////
+Name
+Queen Mama Chanter
+Card ID
+ST07-017
+Type
+Big Mom Pirates / Homies
+Card Category
+stage
+Effect
+[Activate: Main] Rest this stage, you may add 1 card from the top or bottom of your Life area to your hand: Place up to 1 of your Characters that costs 3 on top of the owner's Life area face-up.
+Trigger
+Play this card.
+Product
+Big Mom Pirates [ST-07]
+Color
+Yellow
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST07-017_44a413_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+ST08-001
+Type
+Straw Hat Crew
+Card Category
+leader
+Effect
+[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! to this Leader.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-001_1f93a7_jp.jpg
+/////
+Name
+Uta
+Card ID
+ST08-002
+Type
+FILM
+Card Category
+character
+Effect
+This character cannot be KO'ed by battling against a Leader. [Activate: Main] You may rest this card: Give up to 1 of your opponent's characters cost -2 during this turn.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Super Rare
+Cost
+2
+Power
+3000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-002_69e025_jp.jpg
+/////
+Name
+Gaimon
+Card ID
+ST08-003
+Type
+East Blue
+Card Category
+character
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-003_5d8b8f_jp.jpg
+/////
+Name
+Koby
+Card ID
+ST08-004
+Type
+Navy
+Card Category
+character
+Effect
+[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+4
+Power
+1000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-004_95e727_jp.jpg
+/////
+Name
+Shanks
+Card ID
+ST08-005
+Type
+Red Haired Pirates
+Card Category
+character
+Effect
+[On Play] You may trash 1 card from your hand: KO all characters with a cost of 1 or less.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Super Rare
+Cost
+9
+Power
+10000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-005_7e4cdb_jp.jpg
+/////
+Name
+Shirahoshi
+Card ID
+ST08-006
+Type
+Mermaid
+Card Category
+character
+Effect
+<Blocker> [On Play] Give up to 1 of your opponent's Characters -4 cost during this turn.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+4
+Counter Power
+1000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-006_2bf7e8_jp.jpg
+/////
+Name
+Nefertari Vivi
+Card ID
+ST08-007
+Type
+Alabasta Kingdom
+Card Category
+character
+Effect
+<Blocker> 
+Trigger
+Play this card.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Power
+1000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-007_3f9885_jp.jpg
+/////
+Name
+Higuma
+Card ID
+ST08-008
+Type
+Mountain Bandit
+Card Category
+character
+Effect
+[On Play] Give up to 1 of your opponent's Characters -2 cost during this turn.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+1
+Power
+2000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-008_e99604_jp.jpg
+/////
+Name
+Makino
+Card ID
+ST08-009
+Type
+East Blue
+Card Category
+character
+Effect
+[On Play] If there is a Character with a Cost of 0 in play, draw 1 card.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Counter Power
+2000
+Attribute
+Wisdom
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-009_f0b395_jp.jpg
+/////
+Name
+Monkey D Garp
+Card ID
+ST08-010
+Type
+Navy
+Card Category
+character
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+5
+Power
+7000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-010_66b0ba_jp.jpg
+/////
+Name
+Monkey D Luffy
+Card ID
+ST08-011
+Type
+Straw Hat Crew
+Card Category
+character
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-011_46f65c_jp.jpg
+/////
+Name
+Laboon
+Card ID
+ST08-012
+Type
+Animal
+Card Category
+character
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-012_e29633_jp.jpg
+/////
+Name
+Gum-Gum Bell
+Card ID
+ST08-014
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Main] You may add the top card of your life to your hand: Give up to 1 of your opponent's Characters -7 cost during this turn.
+Trigger
+Add up to 1 Black Character card with a cost of 2 or less from your trash to your hand.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-014_337945_jp.jpg
+/////
+Name
+Gum-Gum Pistol
+Card ID
+ST08-015
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Main] K.O up to 1 of your opponent's Characters with a Cost of 2 or less.
+Trigger
+Draw 1 Card.
+Product
+Side - Monkey D. Luffy [ST-08]
+Color
+Black
+Rarity
+Common
+Cost
+3
+Art
+https://onepiece-cardgame.dev/images/cards/ST08-015_39d2be_jp.jpg
+/////
+Name
+Yamato
+Card ID
+ST09-001
+Type
+Land of Wano
+Card Category
+leader
+Effect
+[DON!! x1][Opponent's Turn] While your Life area has 2 cards or less, this Leader gains +1000 power.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-001_9b176f_jp.jpg
+/////
+Name
+Uzuki Tempura
+Card ID
+ST09-002
+Type
+Land of Wano
+Card Category
+character
+Trigger
+Rest up to 1 of your opponent's Characters with a cost of 2 or less, and add this card to your hand.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-002_0548f5_jp.jpg
+/////
+Name
+Ulti
+Card ID
+ST09-003
+Type
+Animal Kingdom Pirates
+Card Category
+character
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+4
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-003_f75874_jp.jpg
+/////
+Name
+Kaido
+Card ID
+ST09-004
+Type
+Four Emperors / Animal Kingdom Pirates
+Card Category
+character
+Effect
+[DON!!x1] While you have 2 cards or less in your life area, this Character can't be K.O.'ed in battle.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-004_504767_jp.jpg
+/////
+Name
+Kozuki Oden
+Card ID
+ST09-005
+Type
+Land of Wano / Kozuki Family
+Card Category
+character
+Effect
+[DON!! x1] This character gains Double Attack. (This card deals 2 damage.) [On KO] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life Area.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Super Rare
+Cost
+7
+Power
+7000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-006_ad547f_jp.jpg
+/////
+Name
+Kozuki Momonosuke
+Card ID
+ST09-006
+Type
+Land of Wano / Kozuki Family
+Card Category
+character
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+2
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-006_49d7bd_jp.jpg
+/////
+Name
+Shinobu
+Card ID
+ST09-007
+Type
+Land of Wano
+Card Category
+character
+Effect
+<Blocker> [On Block] You may add the top or bottom card of your Life area to your hand: This Character gains +4000 Power during this battle.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+2000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-007_1ef7ba_jp.jpg
+/////
+Name
+Shimotsuki Ushimaru
+Card ID
+ST09-008
+Type
+Land of Wano
+Card Category
+character
+Effect
+[DON!!×1] [When Attacking] You may add the top or bottom card of your Life area to your hand: Play up to 1 yellow Character card with the {Land of Wano} type and a cost of 4 or less from your hand.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+5
+Power
+6000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-008_1efa72_jp.jpg
+/////
+Name
+Fuugetsu Omusubi
+Card ID
+ST09-009
+Type
+Land of Wano
+Card Category
+character
+Trigger
+K.O up to 1 of your opponent's Characters with a cost of 1 or less, and add this card to your hand.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-009_cb6f79_jp.jpg
+/////
+Name
+Portgas D. Ace
+Card ID
+ST09-010
+Type
+Land of Wano / Whitebeard Pirates
+Card Category
+character
+Effect
+[Once Per Turn] If this Character would be KO'ed, you can trash 1 card from the top or bottom of your Life Area instead.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Super Rare
+Cost
+6
+Power
+7000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-010_c8c297_jp.jpg
+/////
+Name
+Monkey D Luffy
+Card ID
+ST09-011
+Type
+Land of Wano / Straw Hat Crew
+Card Category
+character
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-011_e9630a_jp.jpg
+/////
+Name
+Yamato
+Card ID
+ST09-012
+Type
+Land of Wano
+Card Category
+character
+Effect
+[When Attacking] You may add the top or bottom card of your Life area to your hand: This Character gains +2000 power until the start of your next turn.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+3
+Power
+3000
+Counter Power
+2000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-012_69b50f_jp.jpg
+Alternate Art
+https://onepiece-cardgame.dev/images/cards/ST09-012_26d506_jp.jpg
+/////
+Name
+Yamato
+Card ID
+ST09-013
+Type
+Land of Wano
+Card Category
+character
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+5
+Power
+7000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-013_207d80_jp.jpg
+/////
+Name
+Narikabura Arrow
+Card ID
+ST09-014
+Type
+Land of Wano
+Card Category
+event
+Effect
+[Counter] If you have 2 or less cards in your Life Area, give up to 1 of your opponent's Leader or Characters -3000 Power during this turn.
+Trigger
+You may trash 2 cards from your hand: You may place up to 1 card from the top of your deck at the top of your Life Area.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-014_a498f1_jp.jpg
+/////
+Name
+Thunder Bagua
+Card ID
+ST09-015
+Type
+Land of Wano
+Card Category
+event
+Effect
+[Counter] Up to 1 of your Leader or Characters gains +4000 Power during this battle. Then, if you have 2 or less cards in your Life Area, place up to 1 of your opponent's Characters with a cost of 3 or less face down at the top or bottom of their Life.
+Trigger
+Draw 1 card.
+Product
+Side - Yamato [ST-09]
+Color
+Yellow
+Rarity
+Common
+Cost
+2
+Art
+https://onepiece-cardgame.dev/images/cards/ST09-015_bf4ac3_jp.jpg
