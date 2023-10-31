@@ -42,7 +42,7 @@ def repopulate_listbox(event):
                 else:
                     listbox.itemconfig(listbox.size() - 1, {'fg': 'black'})
     title_var.set('Card list - ' + str(listbox.size()) + ' total items')
-    print("size: " + str(listbox.size()))
+    print("repopulate size: " + str(listbox.size()))
     title.grid(row=1, column=1)
     listbox.see(0)
     listbox.activate(0)
@@ -157,7 +157,7 @@ def return_lambda(el):
         return 4
     elif el == "Rare" or el == "Purple" or el == "Stage" or el == "Kingdoms of Intrigue [OP-04]":
         return 5
-    elif el == "Super Rare" or el == "Black" or el == "[OP-05]":
+    elif el == "Super Rare" or el == "Black" or el == "Awakening of the New Era [OP-05]":
         return 6
     elif el == "Secret Rare" or el == "Yellow":
         return 7
@@ -175,6 +175,12 @@ def return_lambda(el):
         return 185
     elif el == "Big Mom Pirates [ST-07]":
         return 186
+    elif el == "Side - Monkey D. Luffy [ST-08]":
+        return 187
+    elif el == "Side - Yamato [ST-09]":
+        return 188
+    elif el == "Three Captains [ST-10]":
+        return 189
     elif el == "Promo":
         return 198
     elif el == "Promo [P]":

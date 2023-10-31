@@ -2,7 +2,7 @@ import json
 
 JSON_PATH = "OPTCG_db.json"
 INPUT_TXT = "input.txt"
-INPUT2_TXT = "input2.txt"
+INPUT2_TXT = "input_st_p.txt"
 
 
 def add_to_wishlist():

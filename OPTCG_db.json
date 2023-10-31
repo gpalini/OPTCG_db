@@ -18,8 +18,7 @@
             "Power": "5000",
             "Attribute": "Slash",
             "Art": "https://onepiece-cardgame.dev/images/cards/OP01-001_332dbe_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-001_fa2195_jp.jpg",
-            "Alternate Art 2": "https://onepiece-cardgame.dev/images/cards/OP01-001_f413e3_jp.jpg"
+            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-001_fa2195_jp.jpg"
         },
         "OP01-002": {
             "Name": "Trafalgar Law",
@@ -80,8 +79,7 @@
             "Power": "3000",
             "Counter Power": "2000",
             "Attribute": "Ranged",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-004_afdd1d_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-004_6d875c_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-004_afdd1d_jp.jpg"
         },
         "OP01-005": {
             "Name": "Uta",
@@ -156,7 +154,8 @@
             "Cost": "4",
             "Power": "5000",
             "Attribute": "Slash",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-008_4ae5cd_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-008_4ae5cd_jp.jpg",
+            "Alternate Art": "https://www.onepiece-cardgame.it/getimg/12"
         },
         "OP01-009": {
             "Name": "Carrot",
@@ -245,7 +244,7 @@
             "Color": [
                 "Red"
             ],
-            "Rarity": "Common",
+            "Rarity": "Rare",
             "Cost": "2",
             "Power": "3000",
             "Counter Power": "2000",
@@ -407,8 +406,7 @@
             "Cost": "3",
             "Power": "4000",
             "Attribute": "Ranged",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-021_ba1620_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-021_7a907a_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-021_ba1620_jp.jpg"
         },
         "OP01-022": {
             "Name": "Brook",
@@ -427,8 +425,7 @@
             "Power": "5000",
             "Counter Power": "1000",
             "Attribute": "Slash",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-022_3a1881_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-022_7120cd_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-022_3a1881_jp.jpg"
         },
         "OP01-023": {
             "Name": "Marco",
@@ -634,8 +631,7 @@
             "Power": "3000",
             "Counter Power": "2000",
             "Attribute": "Ranged",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-033_af7043_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP01-033_72a68d_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-033_af7043_jp.jpg"
         },
         "OP01-034": {
             "Name": "Inuarashi",
@@ -1233,7 +1229,8 @@
             "Power": "3000",
             "Counter Power": "2000",
             "Attribute": "Strike",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-064_1d95d5_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-064_1d95d5_jp.jpg",
+            "Alternate Art": "https://www.onepiece-cardgame.it/getimg/82"
         },
         "OP01-065": {
             "Name": "Vergo",
@@ -1401,7 +1398,7 @@
                 "Donquixote Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+            "Effect": "<Blocker> [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Blue"
@@ -1442,7 +1439,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "You can have as many of this card in your deck as the rules permit. <Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "You can have as many of this card in your deck as the rules permit. <Blocker>",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Blue"
@@ -1488,7 +1485,8 @@
             "Power": "2000",
             "Counter Power": "1000",
             "Attribute": "Special",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-077_2f4494_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-077_2f4494_jp.jpg",
+            "Alternate Art": "https://www.onepiece-cardgame.it/getimg/99"
         },
         "OP01-078": {
             "Name": "Boa Hancock",
@@ -1498,7 +1496,7 @@
                 "Kuja Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [When attacking]/[On Block] If your hand is 5 cards or less, draw 1 card.",
+            "Effect": "<Blocker> [DON!! x1] [When attacking]/[On Block] If your hand is 5 cards or less, draw 1 card.",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Blue"
@@ -1911,7 +1909,7 @@
                 "Kurozumi Family"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Purple"
@@ -2099,7 +2097,8 @@
             "Power": "3000",
             "Counter Power": "1000",
             "Attribute": "Slash",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-109_b1724f_jp.jpg"
+            "Art": "https://onepiece-cardgame.dev/images/cards/OP01-109_b1724f_jp.jpg",
+            "Alternate Art": "https://www.onepiece-cardgame.it/getimg/139"
         },
         "OP01-110": {
             "Name": "Fukurokuju",
@@ -2127,7 +2126,7 @@
                 "Animal Kingdom Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
+            "Effect": "<Blocker> [On Block] DON!!-1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
             "Product": "Romance Dawn [OP-01]",
             "Color": [
                 "Purple"
@@ -2545,7 +2544,7 @@
                 "Whitebeard Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Paramount War [OP-02]",
             "Color": [
                 "Red"
@@ -2669,8 +2668,8 @@
             "Power": "5000",
             "Counter Power": "1000",
             "Attribute": "Special",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-018_22dd66_jp.jpg",
-            "Alternate Art": "https://onepiece-cardgame.dev/images/cards/OP02-018_d30823_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/295",
+            "Alternate Art": "https://www.onepiece-cardgame.it/getimg/296"
         },
         "OP02-019": {
             "Name": "Rakuyo",
@@ -2689,7 +2688,7 @@
             "Power": "4000",
             "Counter Power": "1000",
             "Attribute": "Strike",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-019_240104_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/297"
         },
         "OP02-020": {
             "Name": "Little Oars Jr.",
@@ -2708,7 +2707,7 @@
             "Power": "9000",
             "Counter Power": "1000",
             "Attribute": "Strike",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-020_1fb7f9_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/298"
         },
         "OP02-021": {
             "Name": "Seaquake",
@@ -2726,7 +2725,7 @@
             ],
             "Rarity": "Rare",
             "Cost": "1",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-021_0f81a1_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/299"
         },
         "OP02-022": {
             "Name": "Whitebeard Pirates",
@@ -2743,7 +2742,7 @@
             ],
             "Rarity": "Uncommon",
             "Cost": "1",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-022_983120_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/300"
         },
         "OP02-023": {
             "Name": "You May Be a Fool...but I Still Love You",
@@ -2761,7 +2760,7 @@
             ],
             "Rarity": "Common",
             "Cost": "1",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP02-023_53fbd0_jp.jpg"
+            "Art": "https://www.onepiece-cardgame.it/getimg/301"
         },
         "OP02-024": {
             "Name": "Moby Dick",
@@ -3049,7 +3048,7 @@
                 "Nine Red Scabbards"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Paramount War [OP-02]",
             "Color": [
                 "Green"
@@ -3872,7 +3871,7 @@
                 "Impel Down"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Paramount War [OP-02]",
             "Color": [
                 "Purple"
@@ -4605,7 +4604,7 @@
             "Color": [
                 "Purple"
             ],
-            "Rarity": "Rare",
+            "Rarity": "Secret Rare",
             "Cost": "8",
             "Power": "8000",
             "Attribute": "Special",
@@ -8064,7 +8063,7 @@
                 "Galley-La Company"
             ],
             "Card Category": "character",
-            "Effect": "[On Your Opponent's Attack] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, this Character gains [Blocker] during this turn. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[On Your Opponent's Attack] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, this Character gains [Blocker] during this turn.",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
                 "Purple"
@@ -8220,7 +8219,7 @@
                 "Baroque Works"
             ],
             "Card Category": "character",
-            "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[Blocker]",
             "Trigger": "DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
@@ -8298,7 +8297,7 @@
                 "Baroque Works"
             ],
             "Card Category": "character",
-            "Effect": "[On Your Opponent's Attack] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[On Your Opponent's Attack] DON!! \u00e2\u02c6\u20191 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle.",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
                 "Purple"
@@ -8409,7 +8408,7 @@
                 "Dressrosa"
             ],
             "Card Category": "character",
-            "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[Blocker]",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
                 "Black"
@@ -8643,7 +8642,7 @@
                 "Barto Club"
             ],
             "Card Category": "character",
-            "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[Blocker]",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
                 "Black"
@@ -8925,7 +8924,7 @@
                 "The Vinsmoke Family"
             ],
             "Card Category": "character",
-            "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[Blocker]",
             "Trigger": "You may trash 1 card from your hand: Play this card.",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
@@ -9042,7 +9041,7 @@
                 "Whole Cake Island"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+            "Effect": "<Blocker> [On K.O.] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
             "Product": "Kingdoms of Intrigue [OP-04]",
             "Color": [
                 "Yellow"
@@ -9223,7 +9222,7 @@
             "Cost": "8",
             "Power": "8000",
             "Attribute": "Special",
-            "Art": "https://onepiece-cardgame.dev/images/cards/OP04-119_330f0f_jp.jpg",
+            "Art": "https://www.onepiece-cardgame.it/getimg/816",
             "Alternate Art": "https://www.onepiece-cardgame.it/getimg/817"
         }
     },
@@ -9295,7 +9294,7 @@
                 "Baroque Works"
             ],
             "Card Category": "character",
-            "Effect": "[DON!! x1] This Character gains <Blocker>.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "[DON!! x1] This Character gains <Blocker>.",
             "Product": "Promo [P]",
             "Color": [
                 "Blue"
@@ -9484,7 +9483,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Trigger": "Play this card.",
             "Product": "Promo [P]",
             "Color": [
@@ -9565,7 +9564,7 @@
                 "Barto Club"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Promo [P]",
             "Color": [
                 "Red"
@@ -9843,6 +9842,158 @@
             "Power": "6000",
             "Attribute": "Wisdom",
             "Art": "https://onepiece-cardgame.dev/images/cards/P-032_a01bf2_jp.jpg"
+        },
+        "P-033": {
+            "Name": "Monkey D. Luffy",
+            "Card ID": "P-033",
+            "Type": [
+                "Straw Hat Crew"
+            ],
+            "Card Category": "character",
+            "Effect": "[Activate: Main] You may return this Character to the bottom of its owner's deck: Draw 1 card.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Blue"
+            ],
+            "Rarity": "Promo",
+            "Cost": "4",
+            "Power": "5000",
+            "Counter Power": "1000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-033_83c4e7_jp.jpg"
+        },
+        "P-034": {
+            "Name": "Sanji",
+            "Card ID": "P-034",
+            "Type": [
+                "Vinsmoke Family"
+            ],
+            "Card Category": "character",
+            "Effect": "[DON!! x1] [Your Turn] While your Life area has 2 or less cards, this Character gains +2000 power.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Yellow"
+            ],
+            "Rarity": "Promo",
+            "Cost": "3",
+            "Power": "4000",
+            "Counter Power": "1000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-034_7ffef2_jp.jpg"
+        },
+        "P-035": {
+            "Name": "Monkey D. Luffy",
+            "Card ID": "P-035",
+            "Type": [
+                "Straw Hat Crew"
+            ],
+            "Card Category": "character",
+            "Effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a Cost of 0.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Black"
+            ],
+            "Rarity": "Promo",
+            "Cost": "6",
+            "Power": "6000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-035_f4351d_jp.jpg"
+        },
+        "P-036": {
+            "Name": "Monkey D. Luffy",
+            "Card ID": "P-036",
+            "Type": [
+                "Land of Wano",
+                "Straw Hat Crew"
+            ],
+            "Card Category": "character",
+            "Effect": "[When Attacking] You may add the top or bottom card of your Life area to your hand: Up to 1 of this Character and your Leader gains +1000 power for this turn.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Yellow"
+            ],
+            "Rarity": "Promo",
+            "Cost": "3",
+            "Power": "4000",
+            "Counter Power": "1000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-036_166f1a_jp.jpg"
+        },
+        "P-037": {
+            "Name": "Monkey D. Luffy",
+            "Card ID": "P-037",
+            "Type": [
+                "Straw Hat Crew"
+            ],
+            "Card Category": "character",
+            "Effect": "[When Attacking] If you have 2 or more rested Characters, this Character gains +1000 Power during this turn.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Green"
+            ],
+            "Rarity": "Promo",
+            "Cost": "2",
+            "Power": "4000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-037_2bd593_jp.jpg"
+        },
+        "P-038": {
+            "Name": "Trafalgar Law",
+            "Card ID": "P-038",
+            "Type": [
+                "Heart Pirates",
+                "Dressrosa"
+            ],
+            "Card Category": "character",
+            "Effect": "[On Play] You may rest 1 of your Leaders: K.O. up to 1 of your opponent's Characters with a Cost of 1 or less.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Black"
+            ],
+            "Rarity": "Promo",
+            "Cost": "4",
+            "Power": "5000",
+            "Counter Power": "1000",
+            "Attribute": "Slash",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-038_5d8429_jp.jpg"
+        },
+        "P-039": {
+            "Name": "Bellamy",
+            "Card ID": "P-039",
+            "Type": [
+                "Bellamy Pirates"
+            ],
+            "Card Category": "character",
+            "Effect": "<Banish> [DON!! x2] If you have 0 Life, this Character gains +2000 Power.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Yellow"
+            ],
+            "Rarity": "Promo",
+            "Cost": "5",
+            "Power": "6000",
+            "Attribute": "Strike",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-039_b108c8_jp.jpg"
+        },
+        "P-042": {
+            "Name": "Roronoa Zoro",
+            "Card ID": "P-042",
+            "Type": [
+                "Land of Wano",
+                "Straw Hat Crew"
+            ],
+            "Card Category": "character",
+            "Trigger": "K.O. up to 1 of your opponent\u00e2\u20ac\u2122s Characters with a cost 4 or less.",
+            "Product": "Promo [P]",
+            "Color": [
+                "Yellow"
+            ],
+            "Rarity": "Promo",
+            "Cost": "4",
+            "Power": "5000",
+            "Counter Power": "1000",
+            "Attribute": "Slash",
+            "Art": "https://onepiece-cardgame.dev/images/cards/P-042_db6ef0_jp.jpg"
         }
     },
     "Straw Hat Crew [ST-01]": {
@@ -9951,7 +10102,7 @@
                 "Straw Hat Crew"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Straw Hat Crew [ST-01]",
             "Color": [
                 "Red"
@@ -10233,7 +10384,7 @@
                 "Firetank Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Worst Generation [ST-02]",
             "Color": [
                 "Green"
@@ -10636,7 +10787,7 @@
                 "Heart Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "The Seven Warlords of the Sea [ST-03]",
             "Color": [
                 "Blue"
@@ -10732,7 +10883,7 @@
                 "Kuja Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Trigger": "Play this card.",
             "Product": "The Seven Warlords of the Sea [ST-03]",
             "Color": [
@@ -11182,7 +11333,7 @@
                 "Pirate Fest"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "One Piece Film Edition [ST-05]",
             "Color": [
                 "Purple"
@@ -11582,7 +11733,7 @@
                 "Navy"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Product": "Navy [ST-06]",
             "Color": [
                 "Black"
@@ -11888,7 +12039,7 @@
                 "Big Mom Pirates"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Trigger": "Play this card.",
             "Product": "Big Mom Pirates [ST-07]",
             "Color": [
@@ -12209,7 +12360,7 @@
                 "Alabasta Kingdom"
             ],
             "Card Category": "character",
-            "Effect": "<Blocker> (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+            "Effect": "<Blocker>",
             "Trigger": "Play this card.",
             "Product": "Side - Monkey D. Luffy [ST-08]",
             "Color": [

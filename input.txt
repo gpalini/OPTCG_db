@@ -25,8 +25,6 @@ Art
 https://onepiece-cardgame.dev/images/cards/OP01-001_332dbe_jp.jpg
 Alternate Art
 https://onepiece-cardgame.dev/images/cards/OP01-001_fa2195_jp.jpg
-Alternate Art 2
-https://onepiece-cardgame.dev/images/cards/OP01-001_f413e3_jp.jpg
 /////
 Name
 Trafalgar Law
@@ -108,8 +106,6 @@ Attribute
 Ranged
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-004_afdd1d_jp.jpg
-Alternate Art
-https://onepiece-cardgame.dev/images/cards/OP01-004_6d875c_jp.jpg
 /////
 Name
 Uta
@@ -212,6 +208,8 @@ Attribute
 Slash
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-008_4ae5cd_jp.jpg
+Alternate Art
+https://www.onepiece-cardgame.it/getimg/12
 /////
 Name
 Carrot
@@ -332,7 +330,7 @@ Romance Dawn [OP-01]
 Color
 Red
 Rarity
-Common
+Rare
 Cost
 2
 Power
@@ -561,8 +559,6 @@ Attribute
 Ranged
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-021_ba1620_jp.jpg
-Alternate Art
-https://onepiece-cardgame.dev/images/cards/OP01-021_7a907a_jp.jpg
 /////
 Name
 Brook
@@ -590,8 +586,6 @@ Attribute
 Slash
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-022_3a1881_jp.jpg
-Alternate Art
-https://onepiece-cardgame.dev/images/cards/OP01-022_7120cd_jp.jpg
 /////
 Name
 Marco
@@ -867,8 +861,6 @@ Attribute
 Ranged
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-033_af7043_jp.jpg
-Alternate Art
-https://onepiece-cardgame.dev/images/cards/OP01-033_72a68d_jp.jpg
 /////
 Name
 Inuarashi
@@ -1666,6 +1658,8 @@ Attribute
 Strike
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-064_1d95d5_jp.jpg
+Alternate Art
+https://www.onepiece-cardgame.it/getimg/82
 /////
 Name
 Vergo
@@ -2013,6 +2007,8 @@ Attribute
 Special
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-077_2f4494_jp.jpg
+Alternate Art
+https://www.onepiece-cardgame.it/getimg/99
 /////
 Name
 Boa Hancock
@@ -2851,6 +2847,8 @@ Attribute
 Slash
 Art
 https://onepiece-cardgame.dev/images/cards/OP01-109_b1724f_jp.jpg
+Alternate Art
+https://www.onepiece-cardgame.it/getimg/139
 /////
 Name
 Fukurokuju
@@ -3632,9 +3630,9 @@ Counter Power
 Attribute
 Special
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-018_22dd66_jp.jpg
+https://www.onepiece-cardgame.it/getimg/295
 Alternate Art
-https://onepiece-cardgame.dev/images/cards/OP02-018_d30823_jp.jpg
+https://www.onepiece-cardgame.it/getimg/296
 /////
 Name
 Rakuyo
@@ -3661,7 +3659,7 @@ Counter Power
 Attribute
 Strike
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-019_240104_jp.jpg
+https://www.onepiece-cardgame.it/getimg/297
 /////
 Name
 Little Oars Jr.
@@ -3686,7 +3684,7 @@ Counter Power
 Attribute
 Strike
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-020_1fb7f9_jp.jpg
+https://www.onepiece-cardgame.it/getimg/298
 /////
 Name
 Seaquake
@@ -3709,7 +3707,7 @@ Rare
 Cost
 1
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-021_0f81a1_jp.jpg
+https://www.onepiece-cardgame.it/getimg/299
 /////
 Name
 Whitebeard Pirates
@@ -3732,7 +3730,7 @@ Uncommon
 Cost
 1
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-022_983120_jp.jpg
+https://www.onepiece-cardgame.it/getimg/300
 /////
 Name
 You May Be a Fool...but I Still Love You
@@ -3755,7 +3753,7 @@ Common
 Cost
 1
 Art
-https://onepiece-cardgame.dev/images/cards/OP02-023_53fbd0_jp.jpg
+https://www.onepiece-cardgame.it/getimg/301
 /////
 Name
 Moby Dick
@@ -6260,7 +6258,7 @@ Paramount War [OP-02]
 Color
 Purple
 Rarity
-Rare
+Secret Rare
 Cost
 8
 Power

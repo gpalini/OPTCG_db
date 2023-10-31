@@ -824,6 +824,216 @@ https://onepiece-cardgame.dev/images/cards/P-032_a01bf2_jp.jpg
 Name
 Monkey D. Luffy
 Card ID
+P-033
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[Activate: Main] You may return this Character to the bottom of its owner's deck: Draw 1 card.
+Product
+Promo [P]
+Color
+Blue
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-033_83c4e7_jp.jpg
+/////
+Name
+Sanji
+Card ID
+P-034
+Type
+Vinsmoke Family
+Card Category
+character
+Effect
+[DON!! x1] [Your Turn] While your Life area has 2 or less cards, this Character gains +2000 power.
+Product
+Promo [P]
+Color
+Yellow
+Rarity
+Promo
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-034_7ffef2_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-035
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x1] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a Cost of 0.
+Product
+Promo [P]
+Color
+Black
+Rarity
+Promo
+Cost
+6
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-035_f4351d_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-036
+Type
+Land of Wano / Straw Hat Crew
+Card Category
+character
+Effect
+[When Attacking] You may add the top or bottom card of your Life area to your hand: Up to 1 of this Character and your Leader gains +1000 power for this turn.
+Product
+Promo [P]
+Color
+Yellow
+Rarity
+Promo
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-036_166f1a_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
+P-037
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[When Attacking] If you have 2 or more rested Characters, this Character gains +1000 Power during this turn.
+Product
+Promo [P]
+Color
+Green
+Rarity
+Promo
+Cost
+2
+Power
+4000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-037_2bd593_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+P-038
+Type
+Heart Pirates / Dressrosa
+Card Category
+character
+Effect
+[On Play] You may rest 1 of your Leaders: K.O. up to 1 of your opponent's Characters with a Cost of 1 or less.
+Product
+Promo [P]
+Color
+Black
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-038_5d8429_jp.jpg
+/////
+Name
+Bellamy
+Card ID
+P-039
+Type
+Bellamy Pirates
+Card Category
+character
+Effect
+<Banish> [DON!! x2] If you have 0 Life, this Character gains +2000 Power.
+Product
+Promo [P]
+Color
+Yellow
+Rarity
+Promo
+Cost
+5
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/P-039_b108c8_jp.jpg
+/////
+Name
+Roronoa Zoro
+Card ID
+P-042
+Type
+Land of Wano / Straw Hat Crew
+Card Category
+character
+Trigger
+K.O. up to 1 of your opponent’s Characters with a cost 4 or less.
+Product
+Promo [P]
+Color
+Yellow
+Rarity
+Promo
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/P-042_db6ef0_jp.jpg
+/////
+Name
+Monkey D. Luffy
+Card ID
 ST01-001
 Type
 Supernovas/Straw Hat Crew
