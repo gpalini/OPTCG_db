@@ -91,6 +91,7 @@ def get_long_name(card):
 
 
 def first_populate_listbox():
+    main.refresh_db()
     for sets in cards_db.values():
         for card in sets.values():
             listbox.insert(999, get_long_name(card))

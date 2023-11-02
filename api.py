@@ -1,5 +1,6 @@
 import json
 import requests
+import main_for_migration
 
 api_url = "http://localhost:8080/"
 JSON_PATH = "OPTCG_db.json"
@@ -39,8 +40,8 @@ def test_add():
             add_one_card(card)
 
 
-
 def __main__():
+    main_for_migration.refresh_db()
     get_all()
     test_add()
     get_all()
