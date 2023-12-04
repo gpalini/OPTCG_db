@@ -41,7 +41,8 @@ def test_add():
         f.close()
     for sets in cards_db.values():
         for card in sets.values():
-            add_one_card(card)
+            if card["product"] == "Wings of Captain [OP-06]":
+                add_one_card(card)
 
 
 def fix_db_camel():

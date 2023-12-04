@@ -4784,3 +4784,438 @@ Cost
 2
 Art
 https://onepiece-cardgame.dev/images/cards/ST09-015_bf4ac3_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+ST10-001
+Type
+Heart Pirates
+Card Category
+leader
+Effect
+[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck, and play up to 1 Character card with a cost of 4 or less from your hand.
+Product
+The Three Captains [ST-10]
+Color
+Red/Purple
+Rarity
+Leader
+Life
+4
+Power
+5000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-001_c904b2_jp.jpg
+/////
+Name
+Monkey D Luffy
+Card ID
+ST10-002
+Type
+Straw Hat Crew
+Card Category
+leader
+Effect
+[Activate: Main] [Once Per Turn] If you have 0 DON!! cards on your field or 8 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.
+Product
+The Three Captains [ST-10]
+Color
+Red/Purple
+Rarity
+Leader
+Life
+3
+Power
+6000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-002_42a695_jp.jpg
+/////
+Name
+Eustass"Captain"Kid
+Card ID
+ST10-003
+Type
+Kid Pirates
+Card Category
+leader
+Effect
+[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power. [When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.
+Product
+The Three Captains [ST-10]
+Color
+Red/Purple
+Rarity
+Leader
+Life
+5
+Power
+5000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-003_62f558_jp.jpg
+/////
+Name
+Sanji
+Card ID
+ST10-004
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn.
+Product
+The Three Captains [ST-10]
+Color
+Red
+Rarity
+Common
+Cost
+6
+Power
+6000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-004_9b4b15_jp.jpg
+/////
+Name
+Jinbe
+Card ID
+ST10-005
+Type
+Fish-Man/Straw Hat Crew
+Card Category
+character
+Effect
+[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.
+Product
+The Three Captains [ST-10]
+Color
+Red
+Rarity
+Common
+Cost
+2
+Power
+2000
+Counter Power
+2000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-005_a15297_jp.jpg
+/////
+Name
+Monkey.D.Luffy
+Card ID
+ST10-006
+Type
+Straw Hat Crew
+Card Category
+character
+Effect
+[Rush] [Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.
+Product
+The Three Captains [ST-10]
+Color
+Red
+Rarity
+Super Rare
+Cost
+10
+Power
+11000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-006_177e55_jp.jpg
+/////
+Name
+Killer
+Card ID
+ST10-007
+Type
+Kid Pirates
+Card Category
+character
+Effect
+[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+5
+Power
+6000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-007_2b498c_jp.jpg
+/////
+Name
+Shachi & Penguin
+Card ID
+ST10-008
+Type
+Heart Pirates
+Card Category
+character
+Effect
+[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+2000
+Attribute
+Ranged
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-008_adcea7_jp.jpg
+/////
+Name
+Jean Bart
+Card ID
+ST10-009
+Type
+Heart Pirates
+Card Category
+character
+Effect
+[On Play] (1) (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-009_783684_jp.jpg
+/////
+Name
+Trafalgar Law
+Card ID
+ST10-010
+Type
+Heart Pirates
+Card Category
+character
+Effect
+[Blocker] [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-010_30b813_jp.jpg
+/////
+Name
+Heat
+Card ID
+ST10-011
+Type
+Kid Pirates
+Card Category
+character
+Effect
+[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Character gains +2000 power until the start of your next turn.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+4000
+Counter Power
+1000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-011_7b5d2b_jp.jpg
+/////
+Name
+Bepo
+Card ID
+ST10-012
+Type
+Minks/Heart Pirates
+Card Category
+character
+Effect
+[On Play]/[When Attacking] If your opponent has more DON!! cards on their field than you, add up to 1 DON!! card from your DON!! deck and rest it.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+4
+Power
+5000
+Counter Power
+1000
+Attribute
+Strike
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-012_58e391_jp.jpg
+/////
+Name
+Eustass"Captain"Kid
+Card ID
+ST10-013
+Type
+Kid Pirates
+Card Category
+character
+Effect
+[On Play]/[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Super Rare
+Cost
+7
+Power
+8000
+Attribute
+Special
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-013_7141a8_jp.jpg
+/////
+Name
+Wire
+Card ID
+ST10-014
+Type
+Kid Pirates
+Card Category
+character
+Effect
+[Blocker] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card and trash 1 card from your hand.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Power
+3000
+Counter Power
+1000
+Attribute
+Slash
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-014_4d07ae_jp.jpg
+/////
+Name
+Gum-Gum Giant Sumo Slap
+Card ID
+ST10-015
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.
+Product
+The Three Captains [ST-10]
+Color
+Red
+Rarity
+Common
+Cost
+1
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-015_7dddcd_jp.jpg
+/////
+Name
+Gum-Gum Kong Gatling
+Card ID
+ST10-016
+Type
+Straw Hat Crew
+Card Category
+event
+Effect
+[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less.
+Trigger
+Up to 1 of your Leader gains +1000 power until the end of your next turn.
+Product
+The Three Captains [ST-10]
+Color
+Red
+Rarity
+Common
+Cost
+5
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-016_24d955_jp.jpg
+/////
+Name
+Punk Vise
+Card ID
+ST10-017
+Type
+Kid Pirates
+Card Category
+event
+Effect
+[Main] Rest up to 1 of your opponent's Characters with a cost of 2 or less, and add up to 1 DON!! card from your DON!! deck and rest it.
+Trigger
+Add up to 1 DON!! card from your DON!! deck and set it as active.
+Product
+The Three Captains [ST-10]
+Color
+Purple
+Rarity
+Common
+Cost
+3
+Art
+https://onepiece-cardgame.dev/images/cards/ST10-017_d2f129_jp.jpg
